@@ -6,6 +6,16 @@ linkText: "view project"
 featureImg1: "/assets/images/projects/project-details-image-one.jpg"
 featureImg2: "/assets/images/projects/project-details-image-two.jpg"
 ---
+
+Check if Spotify embed works: 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4d8O3DX7wriyjYwnesLhrv?utm_source=generator&theme=0" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+Check if Libsyn embed works: 
+
+<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/22154351/height/90/theme/custom/thumbnail/no/direction/backward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+
 The “Osen Clock” watch has all the features that users expect in a digital watch, and some unusual features.
 
 The watch has the following features:
