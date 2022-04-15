@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
   font-size: 16px;
-  color: #9D9EA5;
+  color: #000107;
 }
 
 h1 {
@@ -108,7 +108,7 @@ h6 {
   color: #fff;
 }
 .btn-primary:hover {
-  background: #e07b7b;
+  background: #f96b3f;
 }
 
 .btn-secondary {
@@ -116,7 +116,7 @@ h6 {
   color: #fff;
 }
 .btn-secondary:hover {
-  background: #8bc5bf;
+  background: #561061;
 }
 
 body {

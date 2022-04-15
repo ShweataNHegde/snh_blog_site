@@ -5,7 +5,7 @@
     "btnLink":"contact"
   },
   "convBtn":{
-    "btnText":"Listen to our latese episodes",
-    "btnLink":"portfolio"
+    "btnText":"Listen to our latest episodes",
+    "btnLink":"episodes"
   }
 }
