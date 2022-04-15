@@ -5,4 +5,4 @@ pagination:
   size: 3
   alias: portfolios
 ---
-# We love <span>asking</span> and exploring<span>curious</span> questions!
+# We love <span>asking</span> and exploring <span>curious</span> questions!
