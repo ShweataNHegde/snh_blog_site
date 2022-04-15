@@ -1,5 +1,5 @@
 ---
-title: "Design inspiration: the best projects from November"
+title: "Design inspiration; the best projects from November"
 des: "From an immersive rendering of King Kong to a map that breaks down the UK into 1400 songs, these are some of our favourite studio projects from November..."
 postDate: "26-Nov-2019"
 img: "/assets/images/blog/blog-post-02.jpg"
