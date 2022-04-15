@@ -1,20 +1,20 @@
 ---
 layout: "layouts/homepage.njk"
 hero:
-  subTitle: "WE WORK HARD, WE PLAY HARD"
+  subTitle: "Utsuka and Jigyasa present"
   title:
-    firstPara: "We’re a Design Studio"
-    secondPara: "That Belies In the Great Ideas"
+    firstPara: "IndiaAsksWhy: A Science Podcast for Young Minds!"
+    secondPara: "We do the research for you to get smarter"
   seeWorkBtn:
-    text: "See Our Works"
+    text: "Latest Episodes"
     link: "#project"
   connectBtn: 
     text: "Connect with us"
     link: "contact"
 
 portfolio:
-  subTitle: "OUR RECENT WORKS"
-  title: "Crafting experiences and seeking to make the complex clear & beautiful."
+  subTitle: "TICKLE YOUR CURIOSITY"
+  title: "Listen to our latest episodes!"
   seeAllbtn:
     link: "portfolio"
     text: "MORE WORKS"

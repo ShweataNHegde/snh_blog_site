@@ -1,11 +1,11 @@
 {
-  "heading":"LET’S WORK TOGETHER",
+  "heading":"SEND US YOUR CURIOUS QUESTIONS!",
   "submitBtn":{
-    "btnText":"Submit Query",
+    "btnText":"Your question",
     "btnLink":"contact"
   },
   "convBtn":{
-    "btnText":"Not Convinced",
+    "btnText":"Listen to our latese episodes",
     "btnLink":"portfolio"
   }
 }
