@@ -5,4 +5,4 @@ pagination:
   size: 3
   alias: portfolios
 ---
-# We build better <span>products</span> to help our clients build better <span>companies</span>
+# We love <span>asking</span> and exploring<span>curious</span> questions!

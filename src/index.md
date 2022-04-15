@@ -4,7 +4,7 @@ hero:
   subTitle: "Utsuka and Jigyasa present"
   title:
     firstPara: "IndiaAsksWhy: A Science Podcast for Young Minds!"
-    secondPara: "We do the research for you to get smarter"
+    #secondPara: "We do the research for you to get smarter"
   seeWorkBtn:
     text: "Latest Episodes"
     link: "#project"
