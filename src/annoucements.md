@@ -1,5 +1,5 @@
 ---
-layout: "layouts/blog.njk"
+layout: "layouts/annoucements.njk"
 title: "Blog and Announcements"
 des: "Some more curious content and IndiaAsksWhy announcements"
 pagination:
