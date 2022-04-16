@@ -1,8 +1,8 @@
 ---
 layout: "layouts/contact.njk"
-title: "Don’t be shy. Say "
-subTitle: Hello.
-formTitle: "Tell us about your project"
+title: "Don't forget to ask "
+subTitle: Questions!
+formTitle: "What's your curious question?"
 btnText: "Send Message"
 ---
 
