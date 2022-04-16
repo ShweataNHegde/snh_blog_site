@@ -14,7 +14,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
-  color: #00113E;
+  color: #ffffff;
 }
 
 p {
@@ -108,7 +108,7 @@ h6 {
   color: #fff;
 }
 .btn-primary:hover {
-  background: #e07b7b;
+  background: #f58856;
 }
 
 .btn-secondary {
@@ -116,7 +116,7 @@ h6 {
   color: #fff;
 }
 .btn-secondary:hover {
-  background: #8bc5bf;
+  background: #5f2a78;
 }
 
 body {
