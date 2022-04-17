@@ -2,6 +2,7 @@
 subTitle: "S1|E4" 
 title: "Why Tigers Have Stripes?"
 img: "/assets/images/projects/project-thumb-four.jpg"
+postDate: '2022-04-17'
 linkText: "Click here to listen"
 featureImg1: "/assets/images/projects/project-details-image-one.jpg"
 featureImg2: "/assets/images/projects/project-details-image-two.jpg"
