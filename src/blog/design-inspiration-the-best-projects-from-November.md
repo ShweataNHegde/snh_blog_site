@@ -6,7 +6,6 @@ img: "/assets/images/blog/blog-post-02.jpg"
 btnText: "read more"
 author: "Alexender Schoitiz"
 featureImg: "/assets/images/blog/blog-details-image.jpg"
-audio: "/assets/iaw_s1_e2_full_v9.mp3"
 ---
 
 ### Black Lines brand identity, by & Smith

@@ -5,6 +5,7 @@ img: "/assets/images/projects/project-thumb-four.jpg"
 linkText: "view project"
 featureImg1: "/assets/images/projects/project-details-image-one.jpg"
 featureImg2: "/assets/images/projects/project-details-image-two.jpg"
+audio: "/assets/audio/iaw_s1_e2_full_v9.mp3"
 ---
 
 Check if Spotify embed works: 
