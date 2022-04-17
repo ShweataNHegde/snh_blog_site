@@ -14,7 +14,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
-  color: #200531;
+  color: #f9780e;
 }
 
 p {
@@ -288,7 +288,7 @@ textarea.form-control {
 .site-hero {
   position: relative;
   height: 100vh;
-  background-image: url("../images/backgrounds/iaw_hero_image.png");
+  background-image: url("../images/backgrounds/iaw_hero_image_2.png");
   background-size: cover;
   background-position: center center;
   display: flex;
