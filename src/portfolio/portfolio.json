@@ -1,10 +1,4 @@
 {
   "layout":"layouts/projectSingle",
-<<<<<<< HEAD:src/portfolio/portfolio.json
-  "tags":"portfolio"
-||||||| a856651 (changed to episodes; added all audio):src/episodes/episodes.json
-  "tags":"episodes"
-=======
   "tags":"portfolios"
->>>>>>> parent of a856651 (changed to episodes; added all audio):src/episodes/episodes.json
 }
