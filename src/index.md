@@ -16,6 +16,6 @@ portfolio:
   subTitle: "TICKLE YOUR CURIOSITY"
   title: "Listen to our latest episodes!"
   seeAllbtn:
-    link: "episodes"
+    link: "portfolio"
     text: "MORE WORKS"
 ---
