@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
   font-size: 16px;
-  color: #9D9EA5;
+  color: #1e1e20;
 }
 
 h1 {
@@ -162,7 +162,7 @@ body {
 .form-control:focus {
   box-shadow: none;
   background: transparent;
-  border-color: #9D9EA5;
+  border-color: #1e1e20;
 }
 
 select.form-control {
@@ -422,7 +422,7 @@ textarea.form-control {
   bottom: 40px;
   display: block;
   width: 100%;
-  color: #9D9EA5;
+  color: #1e1e20;
   opacity: 0;
   transform: translateY(20px);
   transition: all 0.3s cubic-bezier(0.36, 0.03, 0, 0.91);

@@ -1,23 +1,23 @@
 {
-  "footerLogo": "/assets/images/logo-footer.png",
+  "footerLogo": "#",
 
-  "contactsHeading": "Contact Info",
+  "contactsHeading": " Listen to us on",
   "contactsInfo":[
     {
-      "link":"https://goo.gl/maps/fBANt7Ns2wi6mM7cA",
-      "text":"713 Elmwood St. Prior Lake, MN 55372"
+      "link":"https://open.spotify.com/show/7pLndgBMnvR9eGKduQrhWw",
+      "text":"Spotify"
     },
     {
-      "link":"tel:409-896-1444",
-      "text":"409-896-1444"
+      "link":"https://podcasts.google.com/feed/aHR0cHM6Ly9pbmRpYWJpb3NwZWFrcy5saWJzeW4uY29tL3Jzcw?sa=X&ved=0CAIQ4aUDahcKEwiws6G4wPX3AhUAAAAAHQAAAAAQMw",
+      "text":"Google Podcasts"
     },
     {
-      "link":"tel:409-781-1308",
-      "text":"409-781-1308"
+      "link":"#",
+      "text":"Apple Podcasts"
     },
     {
       "link":"mailto:",
-      "text":"info@roxo.co"
+      "text":"indiaaskswhy@gmail.com"
     }
   ],
 
@@ -25,11 +25,11 @@
   "siteMap":[
     {
       "link":"about",
-      "text":"About Comapny"
+      "text":"About Podcast"
     },
     {
       "link":"portfolio",
-      "text":"Projects"
+      "text":"portfolios"
     },
     {
       "link":"privacy-policy",
@@ -44,20 +44,12 @@
   "socialHeading":"Social Media",
   "socialMedia":[
     {
-      "link":"#",
-      "text":"Medium"
-    },
-    {
-      "link":"#",
-      "text":"Behance"
-    },
-    {
-      "link":"#",
-      "text":"Dribbble"
-    },
-    {
-      "link":"#",
+      "link":"https://www.instagram.com/india_askswhy/",
       "text":"Instagram"
+    },
+    {
+      "link":"https://twitter.com/IndiaAsksWhy",
+      "text":"Twitter"
     }
   ],
   
