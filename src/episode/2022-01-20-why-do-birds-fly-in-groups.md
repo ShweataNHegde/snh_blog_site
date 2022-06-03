@@ -2,7 +2,7 @@
 subTitle: "S1|E3" 
 title: "Why Do Birds Fly Groups?"
 img: "/assets/images/projects/iaw_s1_e3_libsyn_cover.jpeg"
-postDate: '2022-03-20'
+postDate: '2022-01-20'
 linkText: "Click here to listen"
 audio: "/assets/audio/iaw_s1_e3.mp3"
 ---
