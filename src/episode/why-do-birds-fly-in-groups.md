@@ -1,10 +1,10 @@
 ---
-subTitle: "S1|E4" 
-title: "Why Tigers Have Stripes?"
-img: "/assets/images/projects/iaw_s1_e4_libsyn_cover.jpeg"
-postDate: '2022-04-17'
+subTitle: "S1|E3" 
+title: "Why Do Birds Fly Groups?"
+img: "/assets/images/projects/iaw_s1_e3_libsyn_cover.jpeg"
+postDate: '2022-03-20'
 linkText: "Click here to listen"
-audio: "/assets/audio/iaw_s1_e4.mp3"
+audio: "/assets/audio/iaw_s1_e3.mp3"
 ---
 
 Utsuka and Jigyasa, on their recent trip to the zoo🐯 wondered why tigers have stripes. 🤔 We’re sure you must have had that question, too! Listen to this portfolio as they explore why!🐅
