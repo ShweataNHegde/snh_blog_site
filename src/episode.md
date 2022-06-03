@@ -1,8 +1,8 @@
 ---
 layout: layouts/portfolio.njk
 pagination:
-  data: collections.portfolios
+  data: collections.episodes
   size: 5
-  alias: portfolios
+  alias: episodes
 ---
 # We love <span>asking</span> and exploring <span>curious</span> questions!

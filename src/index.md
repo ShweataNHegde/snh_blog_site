@@ -12,10 +12,10 @@ hero:
     text: "Connect with us"
     link: "contact"
 
-portfolio:
+episode:
   subTitle: "TICKLE YOUR CURIOSITY"
   title: "Listen to our latest episodes!"
   seeAllbtn:
-    link: "portfolio"
-    text: "MORE WORKS"
+    link: "episode"
+    text: "Our episodes"
 ---
