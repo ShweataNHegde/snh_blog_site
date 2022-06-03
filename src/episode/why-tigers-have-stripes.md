@@ -2,7 +2,7 @@
 subTitle: "S1|E4" 
 title: "Why Tigers Have Stripes?"
 img: "/assets/images/projects/iaw_s1_e4_libsyn_cover.jpeg"
-postDate: '2022-04-17'
+postDate: '2022-02-17'
 linkText: "Click here to listen"
 audio: "/assets/audio/iaw_s1_e4.mp3"
 ---
