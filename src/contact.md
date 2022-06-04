@@ -2,7 +2,5 @@
 layout: "layouts/contact.njk"
 title: "Don't forget to ask "
 subTitle: Questions!
-formTitle: "What's your curious question?"
-btnText: "Send Message"
+formLink: "https://docs.google.com/forms/d/e/1FAIpQLSfFXONmy3ze2e9hoV7xcn8gjSdX5AraxzurUHQkyTHMvLuRGA/viewform?embedded=true"
 ---
-

@@ -2,5 +2,5 @@
   "navLogo":"/assets/images/iaw_characters.jpeg",
   "navLinks":["home","about","episode","blog", "tags"],
   "navBtnLink":"contact",
-  "navBtnText":"Get in touch"
+  "navBtnText":" Submit Question"
 }
