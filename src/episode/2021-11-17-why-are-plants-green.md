@@ -5,6 +5,7 @@ img: "/assets/images/projects/iaw_s1_e1_libsyn_cover.jpg"
 postDate: '2021-11-17'
 linkText: "Click here to listen"
 audio: "/assets/audio/iaw_s1_e1.mp3"
+featureImg1: "/assets/images/projects/iaw_s1_e1_libsyn_cover.jpg"
 ---
 Plants are everywhere Ever noticed something about their colour? Yes, most of them are green 
 

@@ -6,6 +6,7 @@ img: "/assets/images/blog/blog-post-04.jpg"
 btnText: "read more"
 author: "Felu Mitter"
 featureImg: "/assets/images/blog/blog-details-image.jpg"
+tags: ["blogpost", "transcript"]
 ---
 
 ### Black Lines brand identity, by & Smith
