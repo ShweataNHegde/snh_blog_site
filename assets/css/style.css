@@ -139,6 +139,13 @@ body {
   text-transform: uppercase;
   margin-bottom: 15px;
 }
+.section-title-right h2 {
+  font-weight: 300;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+  text-align: right;
+}
 @media (max-width: 991px) {
   .section-title h2 {
     font-size: 40px;
@@ -894,6 +901,14 @@ textarea.form-control {
   padding: 100px 0;
   background: #F7F9FF;
 }
+
+.site-expertise p {
+  font-size: 20px;
+  font-weight: 300;
+  margin-bottom: 0;
+  padding: 0;
+}
+
 .site-expertise-list {
   padding: 0;
   margin: 10px 0 0 20px;

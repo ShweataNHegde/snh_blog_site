@@ -114,6 +114,25 @@
           "link": "#"
         }
       ]
+    },
+    {
+      "name": "RAMESH PAUL",
+      "dig": "Creative Designer",
+      "img": "/assets/images/team/team-member-six.jpg",
+      "social":[
+        {
+          "icon": "medium",
+          "link": "#"
+        },
+        {
+          "icon": "linkedin",
+          "link": "#"
+        },
+        {
+          "icon": "instagram",
+          "link": "#"
+        }
+      ]
     }
   ]
 }
