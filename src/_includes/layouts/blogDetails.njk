@@ -10,6 +10,15 @@
               <h2 class="blog-title">{{title}}</h2>
               <img class="feature-image" src="{{featureImg}}" alt="blog-details-image">
               {{content | safe}}
+              {% for tag in tags %}
+                {% if tag !== 'blogpost' or '' %}
+                <a href = "/{{tag}}">
+                  <span class="button tag-button">
+                    {{ tag }}
+                  </span>
+                </a>
+                {% endif %}
+              {%- endfor %}
             </article>
             {% if collections.blogpost %}
             {% set nextPost = collections.blogpost | getNextCollectionItem(page) %}
@@ -20,7 +29,7 @@
                 <img class="rev" src="/assets/images/to-top.svg" alt="next project">
                 <span class="link-area">
                   <span data-text="{{previousPost.data.title}}">
-                    Previous Project
+                    Previous Blog
                   </span>
                 </span>
               </a>
@@ -29,10 +38,10 @@
               <a href="{{nextPost.url}}">
                 <span class="link-area">
                   <span data-text="{{nextPost.data.title}}">
-                    Next Project
+                    Next Blog
                   </span>
                 </span>
-                <img src="/assets/images/to-top.svg" alt="next project">
+                <img src="/assets/images/to-top.svg" alt="next blog">
               </a> 
               {% endif %} 
             </div>

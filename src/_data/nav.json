@@ -1,6 +1,6 @@
 {
   "navLogo":"/assets/images/iaw_characters.jpeg",
-  "navLinks":["home","about","episode","blog", "tags"],
+  "navLinks":["home","about","episode","blog"],
   "navBtnLink":"contact",
   "navBtnText":" Submit Question"
 }
