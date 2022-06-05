@@ -10,11 +10,12 @@
               <h2 class="blog-title">{{title}}</h2>
               <img class="feature-image" src="{{featureImg}}" alt="blog-details-image">
               {{content | safe}}
+              tags:
               {% for tag in tags %}
                 {% if tag !== 'blogpost' or '' %}
                 <a href = "/{{tag}}">
                   <span class="button tag-button">
-                    {{ tag }}
+                  {{ tag }}
                   </span>
                 </a>
                 {% endif %}
