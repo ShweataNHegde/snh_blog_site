@@ -18,19 +18,28 @@
     <section class="site-blog">
       <div class="container">
         <div class="row">
-          {% for blogpost in posts | reverse %}
+          {% for post in posts | reverse %}
           <div class="col-lg-6">
             <article class="site-blog-post">
               <div class="site-blog-post-thumb">
-                <img src="{{blogpost.data.img}}" alt="post-thumb">
+                <a href="{{post.data.page.url}}"><img src="{{post.data.img}}" alt="post-thumb"></a>
               </div>
               <div class="site-blog-post-content">
-                <span>{{blogpost.data.postDate}}</span>
-                <h3><a href="{{blogpost.data.page.url}}">{{blogpost.data.title}}</a></h3>
+                <span>{{post.data.postDate}}</span>
+                <h3><a href="{{post.data.page.url}}">{{post.data.title}}</a></h3>
                 <p>
-                  {{blogpost.data.des}}
+                  {{post.data.des}}
                 </p>
-                <a href="{{blogpost.data.page.url}}" class="read-more">{{blogpost.data.btnText}}</a>
+              <h5>Tags:</h5>
+              {% for tag in post.data.tags %}
+                {% if tag !== 'blogpost' or '' %}
+                <a href = "/{{tag}}">
+                  <span class="button tag-button">
+                  {{ tag }}
+                  </span>
+                </a>
+                {% endif %}
+              {%- endfor %}
               </div>
             </article>
           </div>
