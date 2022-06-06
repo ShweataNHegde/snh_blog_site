@@ -1,12 +1,12 @@
 ---
-title: "The 10 biggest product stories of 2019"
-des: "From an at-home blood testing kit to a holographic sat nav system, we look back at our most popular stories across product and digital in the past year..."
-postDate: "16-Oct-2019"
-img: "/assets/images/blog/blog-post-04.jpg"
+title: "The 10 biggest rebrands and logo designs of 2019"
+des: "We look back at our most popular stories across branding and logos from the last year, from a sustainable (and undeniably French)..."
+postDate: "2019-10-15"
+img: "/assets/images/blog/blog-post-01.jpg"
 btnText: "read more"
-author: "Felu Mitter"
+author: "Byomkesh Bakshi"
 featureImg: "/assets/images/blog/blog-details-image.jpg"
-tags: ["blogpost", "transcript"]
+tags: ["blogpost", "extra"]
 ---
 
 ### Black Lines brand identity, by & Smith

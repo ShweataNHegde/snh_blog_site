@@ -1,10 +1,10 @@
 ---
-title: "The 10 biggest rebrands and logo designs of 2019"
-des: "We look back at our most popular stories across branding and logos from the last year, from a sustainable (and undeniably French)..."
-postDate: "16-Dec-2019"
-img: "/assets/images/blog/blog-post-01.jpg"
+title: "Pt chooses Classic Blue for its colour of the year 2020"
+des: "The “timeless and enduring hue” is a reaction to the fast-moving society and also the company’s first “multi-sensory colour of the year”..."
+postDate: "2019-11-15"
+img: "/assets/images/blog/blog-post-03.jpg"
 btnText: "read more"
-author: "Byomkesh Bakshi"
+author: "Sherlock Homes"
 featureImg: "/assets/images/blog/blog-details-image.jpg"
 tags: ["blogpost", "extra"]
 ---

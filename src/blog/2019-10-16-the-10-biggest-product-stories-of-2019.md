@@ -1,12 +1,12 @@
 ---
-title: "Pt chooses Classic Blue for its colour of the year 2020"
-des: "The “timeless and enduring hue” is a reaction to the fast-moving society and also the company’s first “multi-sensory colour of the year”..."
-postDate: "15-Nov-2019"
-img: "/assets/images/blog/blog-post-03.jpg"
+title: "The 10 biggest product stories of 2019"
+des: "From an at-home blood testing kit to a holographic sat nav system, we look back at our most popular stories across product and digital in the past year..."
+postDate: "2019-10-16"
+img: "/assets/images/blog/blog-post-04.jpg"
 btnText: "read more"
-author: "Sherlock Homes"
+author: "Felu Mitter"
 featureImg: "/assets/images/blog/blog-details-image.jpg"
-tags: ["blogpost", "extra"]
+tags: ["blogpost", "transcript"]
 ---
 
 ### Black Lines brand identity, by & Smith

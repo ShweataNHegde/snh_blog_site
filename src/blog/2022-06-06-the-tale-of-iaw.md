@@ -1,7 +1,7 @@
 ---
 title: "How it all began"
 des: "What began as a ..."
-postDate: "15-Nov-2019"
+postDate: "2022-06-06"
 img: "/assets/images/blog/blog-post-03.jpg"
 author: "IndiaAsksWhy"
 featureImg: "/assets/images/blog/blog-details-image.jpg"
