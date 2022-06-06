@@ -4,7 +4,7 @@ title: "Blog and Announcements"
 des: "More IndiaAsksWhy content!"
 pagination:
   data: collections.blogpost
-  size: 8
+  size: 3
   alias: posts
 ---
 
