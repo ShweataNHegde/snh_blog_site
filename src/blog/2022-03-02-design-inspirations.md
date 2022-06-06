@@ -1,12 +1,11 @@
 ---
-title: "Design inspiration; the best projects from November"
+title: "Design inspiration"
 des: "From an immersive rendering of King Kong to a map that breaks down the UK into 1400 songs, these are some of our favourite studio projects from November..."
-postDate: "26-Nov-2019"
+postDate: "2022-03-03"
 img: "/assets/images/blog/blog-post-02.jpg"
-btnText: "read more"
 author: "Alexender Schoitiz"
 featureImg: "/assets/images/blog/blog-details-image.jpg"
-tags: ["transcript"]
+tags: ["transcript", "extra"]
 ---
 
 ### Black Lines brand identity, by & Smith
