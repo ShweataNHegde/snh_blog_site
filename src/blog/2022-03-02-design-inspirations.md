@@ -5,7 +5,7 @@ postDate: "2022-03-03"
 img: "/assets/images/blog/blog-post-02.jpg"
 author: "Alexender Schoitiz"
 featureImg: "/assets/images/blog/blog-details-image.jpg"
-tags: ["transcript", "extra"]
+tags: ["blogpost", "transcript", "extra"]
 ---
 
 ### Black Lines brand identity, by & Smith
