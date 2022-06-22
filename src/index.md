@@ -16,6 +16,6 @@ episode:
   subTitle: "TICKLE YOUR CURIOSITY"
   title: "Listen to our latest episodes!"
   seeAllbtn:
-    link: "episode"
+    link: "episodes"
     text: "Our episodes"
 ---
