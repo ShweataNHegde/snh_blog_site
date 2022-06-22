@@ -1,10 +1,10 @@
 {
-  "title": "team that makes the difference.",
+  "title": "The Team!",
   "teamMembers":[
     {
-      "name": "PABLO ESCOBAR",
-      "dig": "Creative Director",
-      "img": "/assets/images/team/team-member-one.jpg",
+      "name": "Megha Kumar",
+      "dig": "Advisor",
+      "img": "/assets/images/team/megha_kumar_2.png",
       "social":[
         {
           "icon": "medium",
@@ -21,9 +21,9 @@
       ]
     },
     {
-      "name": "MONTINO RIAU",
-      "dig": "Product Manager",
-      "img": "/assets/images/team/team-member-two.jpg",
+      "name": "Shweata N. Hegde",
+      "dig": "Co-Founder",
+      "img": "/assets/images/team/shweata_n_hegde.png",
       "social":[
         {
           "icon": "medium",
@@ -40,9 +40,9 @@
       ]
     },
     {
-      "name": "ALEX NAASRI",
-      "dig": "Chief Design Officer",
-      "img": "/assets/images/team/team-member-three.jpg",
+      "name": "Ruchi Manglunia",
+      "dig": "Co-Founder",
+      "img": "/assets/images/team/ruchi_manglunia.png",
       "social":[
         {
           "icon": "medium",
@@ -59,9 +59,9 @@
       ]
     },
     {
-      "name": "HONGMAN CHIOA",
-      "dig": "UX Researcher",
-      "img": "/assets/images/team/team-member-four.jpg",
+      "name": "Ira Zibbu",
+      "dig": "Audio Editor",
+      "img": "/assets/images/team/ira_zibbu.jpg",
       "social":[
         {
           "icon": "medium",
@@ -78,47 +78,9 @@
       ]
     },
     {
-      "name": "SANTIO ANDRESS",
-      "dig": "Content Researcher",
-      "img": "/assets/images/team/team-member-five.jpg",
-      "social":[
-        {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
-          "icon": "linkedin",
-          "link": "#"
-        },
-        {
-          "icon": "instagram",
-          "link": "#"
-        }
-      ]
-    },
-    {
-      "name": "RAMESH PAUL",
-      "dig": "Creative Designer",
-      "img": "/assets/images/team/team-member-six.jpg",
-      "social":[
-        {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
-          "icon": "linkedin",
-          "link": "#"
-        },
-        {
-          "icon": "instagram",
-          "link": "#"
-        }
-      ]
-    },
-    {
-      "name": "RAMESH PAUL",
-      "dig": "Creative Designer",
-      "img": "/assets/images/team/team-member-six.jpg",
+      "name": "Venkat Sai Ganesh Gadi",
+      "dig": "Social Media Strategist",
+      "img": "/assets/images/team/venkat_sai_ganesh_gadi.jpg",
       "social":[
         {
           "icon": "medium",

@@ -151,7 +151,7 @@
               <h5 class="site-footer-widget-title">{{footer.socialHeading}}</h5>
               <ul class="site-footer-widget-links">
                 {% for socialMedia in footer.socialMedia %}
-                <li><a href="/{{socialMedia.link}}">{{socialMedia.text}}</a></li>
+                <li><a href="{{socialMedia.link}}">{{socialMedia.text}}</a></li>
                 {% endfor %}
               </ul>
             </div>
@@ -161,9 +161,10 @@
               <h5 class="site-footer-widget-title">{{footer.brandHeading}}</h5>
               <p class="site-footer-widget-description">
               {% for brandMotto in footer.brandMotto %}
-                - {{brandMotto}}
-                <br>
+              <ul class="site-footer-widget-links">
+                <li><a href="{{brandMotto.link}}">{{brandMotto.text}}</a></li>
               {% endfor %}
+              </ul>
               </p>
             </div>
           </div>

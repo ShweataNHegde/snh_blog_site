@@ -32,12 +32,12 @@
       "text":"All Episodes"
     },
     {
-      "link":"privacy-policy",
-      "text":"Privacy Policy"
+      "link":"blog",
+      "text":"Blog"
     },
     {
-      "link":"terms-conditions",
-      "text":"Terms & Condition"
+      "link":"transcript",
+      "text":"Transcripts"
     }
   ],
 
@@ -53,8 +53,18 @@
     }
   ],
   
+
   "brandHeading":"Get in Touch:",
-  "brandMotto":["if you are a a researcher","if you have any questions"],
+  "brandMotto":[
+    {
+      "link":"/contact-researchers",
+      "text": "if you are a researcher"
+    },
+    {
+      "link": "/contact",
+      "text": "if you have questions!"
+    }
+  ],
 
   "back2topIcon":"/assets/images/to-top.svg",
   "customerComment":"I want to visit again"
