@@ -1,5 +1,5 @@
 ---
 title: "IndiaAsksWhy -- A Science Podcast for Curious Minds."
 layout: layouts/about.njk
-des: "IndiaAsksWhy is a one-stop-shop for ways to answer your curious questions!"
+des: "Utsuka and Jigyasa love asking questions! Join them on a curiosity-driven journey to explore the world!"
 ---
