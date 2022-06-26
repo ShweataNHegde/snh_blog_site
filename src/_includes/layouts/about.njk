@@ -94,8 +94,6 @@
                 <img src="{{teamMember.img}}" alt="team-member">
               </div>
               <div class="site-team-member-content">
-                <h3>{{teamMember.name}}</h3>
-                <p>{{teamMember.dig}}</p>
                 <ul class="site-team-member-social">
                   {% for social in teamMember.social %}
                   <li>
@@ -105,6 +103,8 @@
                   </li> 
                   {% endfor %}
                 </ul>
+                <h3>{{teamMember.name}}</h3>
+                <p>{{teamMember.dig}}</p>
               </div>
             </div>
           </div> 
