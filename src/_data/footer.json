@@ -28,7 +28,7 @@
       "text":"About Podcast"
     },
     {
-      "link":"episode",
+      "link":"episodes",
       "text":"All Episodes"
     },
     {
@@ -67,5 +67,6 @@
   ],
 
   "back2topIcon":"/assets/images/to-top.svg",
-  "customerComment":"I want to visit again"
+  "customerComment":"I want to visit again",
+  "maintainedBy": "Shweata N. Hegde"
 }
