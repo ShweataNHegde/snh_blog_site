@@ -1083,6 +1083,12 @@ textarea.form-control {
   color: #fff;
   margin-bottom: 30px;
 }
+
+.site-footer-widget-title a {
+  color: #F18A26;
+  margin-bottom: 30px;
+}
+
 @media (max-width: 991px) {
   .site-footer-widget-title {
     margin-bottom: 20px;
