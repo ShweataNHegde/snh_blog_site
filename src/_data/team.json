@@ -7,16 +7,8 @@
       "img": "/assets/images/team/megha_kumar_2.png",
       "social":[
         {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
           "icon": "linkedin",
-          "link": "#"
-        },
-        {
-          "icon": "instagram",
-          "link": "#"
+          "link": "https://www.linkedin.com/in/megha-kumar-0ba66324"
         }
       ]
     },
@@ -26,16 +18,12 @@
       "img": "/assets/images/team/shweata_n_hegde.png",
       "social":[
         {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
           "icon": "linkedin",
-          "link": "#"
+          "link": "https://www.linkedin.com/in/shweata-n-hegde-318247196"
         },
         {
-          "icon": "instagram",
-          "link": "#"
+          "icon": "twitter",
+          "link": "https://twitter.com/shweatahegde"
         }
       ]
     },
@@ -45,16 +33,12 @@
       "img": "/assets/images/team/ruchi_manglunia.png",
       "social":[
         {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
           "icon": "linkedin",
-          "link": "#"
+          "link": "https://www.linkedin.com/in/ruchi-manglunia"
         },
         {
-          "icon": "instagram",
-          "link": "#"
+          "icon": "twitter",
+          "link": "https://mobile.twitter.com/ruchi_manglunia"
         }
       ]
     },
@@ -64,16 +48,38 @@
       "img": "/assets/images/team/ira_zibbu.jpg",
       "social":[
         {
-          "icon": "medium",
-          "link": "#"
-        },
+          "icon": "twitter",
+          "link": "https://twitter.com/cool_scootre?lang=en"
+        }
+      ]
+    },
+    {
+      "name": "Indulekha M.S.",
+      "dig": "Audio Editor",
+      "img": "/assets/images/team/indulekha_ms.jpg",
+      "social":[
         {
           "icon": "linkedin",
-          "link": "#"
+          "link": "https://www.linkedin.com/in/indulekha-m-s-a1a063220"
         },
         {
-          "icon": "instagram",
-          "link": "#"
+          "icon": "twitter",
+          "link": "https://twitter.com/Indulekha_m_s"
+        }
+      ]
+    },
+    {
+      "name": "Khushi Goel",
+      "dig": "Transcriber",
+      "img": "/assets/images/team/khushi_goel.jpg",
+      "social":[
+        {
+          "icon": "linkedin",
+          "link": "linkedin.com/in/khushi-goel-116040205/"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/Khushi_Go"
         }
       ]
     },
@@ -83,16 +89,12 @@
       "img": "/assets/images/team/venkat_sai_ganesh_gadi.jpg",
       "social":[
         {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
           "icon": "linkedin",
-          "link": "#"
+          "link": "https://www.linkedin.com/in/venkat-sai-ganesh-gadi-1a8573163"
         },
         {
-          "icon": "instagram",
-          "link": "#"
+          "icon": "twitter",
+          "link": "https://twitter.com/oxygenases"
         }
       ]
     }
