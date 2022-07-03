@@ -6,5 +6,6 @@ pagination:
   data: collections.blogpost
   size: 8
   alias: posts
+  reverse: true
 ---
 
