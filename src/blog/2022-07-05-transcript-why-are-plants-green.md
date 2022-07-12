@@ -14,6 +14,7 @@ U & J: Hi everyone! I am Utsuka. I am Jigyasa and you are listening to ‘India 
 
 [00:35]
 U: Plants are everywhere and most of them are green. But wait. Have you ever paused and wondered why that is the case? Like why aren’t all plants blue in color? Utsuka & Jigyasa have had the same question too. So join them to know why plants are green. 
+
 In the second segment, both of them get to ask their questions about why plants are green to Dr Geetanjali Yadav, who is a plant scientist and a computational biologist at NIPGR, India as well as at University of Cambridge. Not only that, they get to hear about the origin of photosynthesis and to learn about her computational biology work and get a peek into  what else a scientist does other than actually doing science. 
 So stay tuned! 
 

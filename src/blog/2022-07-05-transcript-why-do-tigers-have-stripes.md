@@ -8,7 +8,8 @@ author: "Khushi Goel"
 tags: ["transcript"]
 ---
 Listen to the episode, [here](https://www.indiaaskswhy.org/episode/2022-02-17-why-tigers-have-stripes/).
-<PODCAST INTRO>
+
+#### PODCAST INTRO
 
 [0:10]
 
@@ -30,14 +31,16 @@ Both: one question at a time!
 
 Transition
 
-<EPISODE INTRO>
+#### EPISODE INTRO
 
 [0:37]
 J: We all have visited zoos, haven’t we? Utsuka and Jigyasa, on their recent trip to the Zoo, were fascinated to see tigers. While admiring the tiger’s beauty, they realized something. All tigers have stripes. 
 In this episode, Utsuka and Jigyasa explore why tigers have stripes. To know more about the purpose of stripes on tiger’s bodies, they speak to Mihir Trivedi, a wildlife biologist from CCMB.
 
-<SEGMENT 1>
-<In Zoo>
+#### SEGMENT 1
+
+_In Zoo_
+
 [1:22] 
 J: “Ooooo...the next animal is…P-a-n-t-h-e-r-a tigris, wait that’s a tiger!”
 
@@ -128,12 +131,13 @@ J: Let’s ask Mihir!
 [6:56]
 Transition music
 
-<SEGUE>
-Phone ringing sound
+_Phone ringing sound_
+
 [6:58] 
 J: Now, It’s time to ask a scientist
 
-<SEGMENT 2>
+#### SEGMENT 2
+
 [7:22]
 J: Why do you think Tigers have stripes? What is the role that stripes on a tiger play?
 
@@ -145,9 +149,6 @@ J: Oh, what do you mean when you say colorblind?
 
 [8:05]
 M: So, Human eyes are like RGB, red, green and blue, and we can see in these. But most ungulates can see only in two colors, maybe green and blue. So they won’t be able to associate the orange color that we associate with the tiger. 
-
-
-
 
 [8:23]
 J: Oh! Then my question is, “How do you study these wild animals? Because, you know, they are wild animals, we can captivate them in the zoo but we cannot study the wild properties of the animal in a zoo, Right?.”
@@ -181,7 +182,7 @@ J: So what would you like to say to all listeners who may be interested in that 
 [11:56]
 M: One obvious advice would be read as much as you can and read eclectic studies, have a varied bunch of reading, different different things. Reading takes effort. So it gives you time so that you can develop your own thinking. And another thing which I would emphasize is that slightly unconventional embraces the confusion in your life. If you are confused about whether you have to choose physics or biology, okay accept it. Having confusion is a very nice thing to have. 
 
-<CONCLUSION>
+#### CONCLUSION
 [12:34]
 J: So do you now understand why tigers have stripes?
 
@@ -191,7 +192,6 @@ U: Yes, the stripes help tigers to blend into the grasses to hide from the prey.
 [13:15]
 J: We also got to know that a sentence in the science textbook eventually inspired Mihir to become a wildlife biologist. And How cool it is that he gets to live in the forest studying animals in the wild!
 
-<DISCLAIMER>
 [13:30]
 U: As we always say, we are still learning a lot about tiger stripes and patterns on animal skin in general. 
 
@@ -203,7 +203,6 @@ U: Absolutely, Jigyasa!
 [13:50]
 J:  Follow us on our social media and let us know if you are interested to know more about tigers of different colors 
 
-<CTA>
 [14:02]
 U: So, that’s it for today. We would like to thank Mihir Trivedi for being a part of this episode.
 
@@ -217,7 +216,7 @@ U: For updates on IndiaAsksWhy, follow IndiaBioScience @IndiaBioscience on Twitt
 
 J: Shweata N. Hegde and Ruchi Manglunia are the hosts of the podcast
 
-<OTHER CREDITS>
+#### OTHER CREDITS
 [14:43]
 U: Ira Zibbu helped us transcribe and design the interview segment. 
 
