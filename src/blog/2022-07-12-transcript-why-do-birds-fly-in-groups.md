@@ -10,10 +10,6 @@ tags: ["transcript"]
 
 Listen to the full episode, [here](https://www.indiaaskswhy.org/episode/2022-01-20-why-do-birds-fly-in-groups/)
 
-India Asks Why?
-Episode 3, Season 1 : Why do birds fly in groups?
-With Dr Vishwesha Guttal
-
 
 Both- “Hi Everyone”
 
