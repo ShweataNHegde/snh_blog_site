@@ -1,8 +1,8 @@
 ---
-subTitle: "S1|E5" 
-title: "Why Does Rain Smell So Good?"
+subTitle: "S2|E1" 
+title: "Why Do We Like Chocolates?"
 img: "/assets/images/projects/iaw_s2_e1_libsyn_cover.jpg"
-postDate: '2022-03-24'
+postDate: '2022-07-15'
 linkText: "Click here to listen"
 audio: "/assets/audio/iaw_s2_e1.mp3"
 ---
