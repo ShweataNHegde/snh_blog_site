@@ -15,4 +15,4 @@ What makes chocolate-eating an experience? Why do we crave them so much? What pa
 
 To understand how brain researchers study this chocolate-eating experience, they talk with [Dr. Nandini Chatterjee Singh](https://nbrc.irins.org/profile/61260), a physicist studying the human brain. From physics to brain – how did she make that transition? We’ll also get to know more about it in this episode!
 
-We’re sure that Utuska and Jigyasa’s conversations would have made you ask questions. You can leave them on our website ( https://www.indiaaskswhy.org/contact/), and we’ll pick them up :)
+We’re sure that Utuska and Jigyasa’s conversations would have made you ask questions. You can leave them on our website [https://www.indiaaskswhy.org/contact/](https://www.indiaaskswhy.org/contact/), and we’ll pick them up :)
