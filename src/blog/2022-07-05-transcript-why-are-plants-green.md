@@ -30,11 +30,11 @@ J: And it is green in color? That’s why plants have a green color. Right? But 
 [02: 21]
 U: That’s an interesting question. As we know, visible light is made of seven colors, the colors of a rainbow. The color that we associate with something is the color that it reflects. A banana looks yellow precisely because it reflects yellow and absorbs other colors. If something absorbs all the light from the same, it looks black. 
 
-[02: 43]
+[02:43]
 J: Oh! That makes sense. Plants are green precisely because they reflect the green light. But this still doesn’t answer my question. Why does chlorophyll reflect green light? 
 
 
-[02: 55]
+[02:55]
 U:  To answer that question, we need to go back to the sun. 
 So the most energy radiated by our sun is the green light of the visible spectrum. 
 
@@ -119,4 +119,5 @@ U: Who knows, in the future you might be the one who will be studying these plan
 
 [11:40]
 J: So… stay curious 
+
 U & J: And ask questions! 
