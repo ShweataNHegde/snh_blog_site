@@ -9,7 +9,7 @@ hero:
     text: "Latest Episodes"
     link: "#project"
   connectBtn: 
-    text: "Connect with us"
+    text: "Ask your question!"
     link: "contact"
 
 episode:
