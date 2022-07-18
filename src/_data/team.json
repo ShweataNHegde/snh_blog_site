@@ -104,8 +104,27 @@
       ]
     },
     {
-      "name": "Venkat Sai Ganesh Gadi",
+      "name": "Siva Shakthi A.",
       "dig": "Social Media Strategist",
+      "img": "/assets/images/team/siva_shakthi_a.jpg",
+      "social":[
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/siva-shakthi-a-13a2449b/?originalSubdomain=in"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/sivashakthia"
+        },
+        {
+          "icon": "instagram",
+          "link": "https://www.instagram.com/a_siva_shakthi/"
+        }
+      ]
+    },
+    {
+      "name": "Venkat Sai Ganesh Gadi",
+      "dig": "Social Media Strategist (past)",
       "img": "/assets/images/team/venkat_sai_ganesh_gadi.jpg",
       "social":[
         {
