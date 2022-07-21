@@ -10,6 +10,10 @@ tags: ["transcript"]
 Listen to the episode, [here](https://www.indiaaskswhy.org/episode/2022-03-24-why-does-rain-smell-good/).
 
 
+India Asks Why?
+Episode 5, Season 1 : Why does rain smell good?
+With Dr Samay Pande
+
 [00:09]
 Both- “Hi Everyone”
 
@@ -41,12 +45,12 @@ U: Hmm.. The good smell of the rain brings me back so many memories. Umm.. What 
 J: Pterichor? That sounds poetic. I wonder why rain sometimes smells so good?
 
 [02:11]
-U: So the smell of wet earth is not because of rainwater itself but because of various chemical molecules. The main one is called ‘Geosmin’ which is produced by spores of  a bacteria living in the soil called Streptomyces. 
+U: So the smell of wet earth is not because of rainwater itself but because of various chemical molecules. The main one is called ‘Geosmin’ which is produced by spores of  a bacteria living in the soil called _Streptomyces_. 
 [02:29]
 J: Wait, wait,wait. That’s a lot to unpack here. So many big words like geosmin, streptomyces, spores, and bacteria. Go slow, and tell me everything. 
 
 [02:40]
-U: Hehe.. okay. I’ll slow down. So Streptomyces is a spore producing bacteria that lives in the soil. 
+U: Hehe.. okay. I’ll slow down. So _Streptomyces_ is a spore producing bacteria that lives in the soil. 
 
 [02:48]
 J: What are bacterial spores? Are they different from bacterial cells?
@@ -55,22 +59,22 @@ J: What are bacterial spores? Are they different from bacterial cells?
 U: So Jigyasa spores are tough structures that are dormant meaning they are not performing any life-like activities or consuming nutrients. Spores help in dispersion. They can move from one place to another to…
 
 [03:09]
-J: But why do these streptomyces bacteria have to produce spores to move from one place to another? Can’t the normal bacterial cell move?
+J: But why do these _streptomyces_ bacteria have to produce spores to move from one place to another? Can’t the normal bacterial cell move?
 
 [03:18]
-U: No, No. Streptomyces is very unique. Unlike other bacteria which are single celled or have special structures which can help them move, streptomyces cells are joined together with each other to form a thread-like structure. These bacterial cells are entangled and run inside the soil. 
+U: No, No. _Streptomyces_ is very unique. Unlike other bacteria which are single celled or have special structures which can help them move, _streptomyces_ cells are joined together with each other to form a thread-like structure. These bacterial cells are entangled and run inside the soil. 
 
 [03:39]
 J: But first tell me, why do these bacteria have to move places?
 
 [03:44]
-U: Well imagine yourself as streptomyces, okay? You are stuck at a place that is so running out of nutrients. What would you do?
+U: Well imagine yourself as _streptomyces_, okay? You are stuck at a place that is so running out of nutrients. What would you do?
 
 [03:55]
 J: Yeah… If the conditions at the current residence aren’t favorable, I should be looking for a better place and move out. Shouldn’t I?
 
 [04:04]
-U: Exactly. These bacteria love food. So that’s why spores come into picture. Streptomyces threads give out a special structure called hyphae that is made up of multiple cells. Hyphae grow out of the soil surface which gives rise to multiple spores which can then get dispersed. 
+U: Exactly. These bacteria love food. So that’s why spores come into picture. _Streptomyces_ threads give out a special structure called hyphae that is made up of multiple cells. Hyphae grow out of the soil surface which gives rise to multiple spores which can then get dispersed. 
 So you can escape from that unfavorable condition. 
 
 [04:32]
@@ -84,23 +88,23 @@ U: Geosmin, yes. So these bacterial spores are sitting on the hyphae and are loo
 J: They need a vehicle of some sort, right?
 
 [05:04]
-U: Exactly. So that’s why the latest research says they produce geosmin to attract their vehicle. The vehicle here is called a ‘spring dale’ which is a tiny-winy six legged animal. 
+U: Exactly. So that’s why the latest research says they produce geosmin to attract their vehicle. The vehicle here is called a ‘spring tails’ which is a tiny-winy six legged animal. 
 
 [05:18]
 J: Woah! I’ll look up its image online. 
 
 [05:22]
-U: So as you see the geosmin that streptomyces produce attracts spring dave. Spring dale thinks its food and comes to feast on these bacterial spores. 
+U: So as you see the geosmin that _streptomyces_ produce attracts springtail. Springtails thinks its food and comes to feast on these bacterial spores. 
 
 [05:35]
-J: Wait.. You say Springdales are vehicles for these bacteria to hitchhike, right? Now you say the spores get eaten?
+J: Wait.. You say springtails are vehicles for these bacteria to hitchhike, right? Now you say the spores get eaten?
 
 [05:43]
-U: Don’t worry, don’t worry. So bacteria produces spores in large numbers. So while springdales are eating those spores, some latch onto the surface of the springdales' body and when the springdales move to a different place, they drop off these spores that were once stuck. Some spores even make it out of the springdales digestive system, unharmed and get dispersed that way too. And then the spores restart their new life at the new place. 
+U: Don’t worry, don’t worry. So bacteria produces spores in large numbers. So while springtails are eating those spores, some latch onto the surface of the springtails' body and when the springtails move to a different place, they drop off these spores that were once stuck. Some spores even make it out of the springtail's digestive system, unharmed and get dispersed that way too. And then the spores restart their new life at the new place. 
 That’s pretty cool, right?
 
 [06:19]
-J: That’s a very interesting interaction between springdales and streptomyces. But what I still don’t understand is, if the geosmin is produced in the soil, how does it reach my nose?
+J: That’s a very interesting interaction between springtails and _streptomyces_. But what I still don’t understand is, if the geosmin is produced in the soil, how does it reach my nose?
 
 [06:34]
 U: So when the rain hits the soil, at the point of contact larger water droplets form smaller air bubbles which rise upwards and burst into tinier aerosols. So do you know what aerosols are? 
@@ -124,7 +128,7 @@ J: And now, it’s time to ask a scientist.
 J: Hi everyone! Getting back to the second segment of the interview, we have with us today Dr Samay Pandey from IISc, Bangalore. Utsuka, why don’t you go ahead and ask your question to Dr Samay Pandey. 
 
 [07:57]
-U: So Dr Pandey, we just learnt that geosmin which is the chemical behind the smell of the rain is produced by a bacteria. And that it is produced to attract springdales to help for its dispersal. We also learnt that geosmin is what is called a secondary metabolite. So can you talk to us a little bit about what secondary metabolites are and why do bacteria produce them?
+U: So Dr Pandey, we just learnt that geosmin which is the chemical behind the smell of the rain is produced by a bacteria. And that it is produced to attract springtails to help for its dispersal. We also learnt that geosmin is what is called a secondary metabolite. So can you talk to us a little bit about what secondary metabolites are and why do bacteria produce them?
 
 [08:25]
 S: That is a deep question but now there are compounds that many organisms make which are not necessarily giving any growth benefits or energy. For any life form to function, you need energy. So that’s why you make many compounds. Some compounds are giving energy that are primary metabolites, some compounds you produce but there is no obvious reason why you would produce them as a bacterial cell because they are not giving any energy. So those are secondary metabolites. Now what are different types of secondary metabolites? So I’ll just give some examples. And I think probably one of the compounds that I would highlight most importantly which has probably changed the course of human evolution with mild yield is antibiotics. Now another example of secondary metabolites can be what is now famously known as ‘coral sensing molecules’. So these are the molecules which are used by bacteria to talk to each other, to communicate. 
@@ -165,7 +169,7 @@ U: Yeah.. Jigyasa and I always love asking questions and it is good to know we a
 U: So Jigyasa, do you now understand why rain smells so good sometimes? 
 
 [14:55]
-J: Yes, the rain smell is due to a molecule called geosmin which is produced by the spores of  a specific bacteria living in the soil. They make this molecule to attract their transport vehicle, the springdales. When the rain hits the soil, they produce tiny aerosols containing geosmin that reaches our nose when the wind blows. 
+J: Yes, the rain smell is due to a molecule called geosmin which is produced by the spores of  a specific bacteria living in the soil. They make this molecule to attract their transport vehicle, the springtails. When the rain hits the soil, they produce tiny aerosols containing geosmin that reaches our nose when the wind blows. 
 
 [15:19]
 U: Yes. And Dr Pande spoke to us about many other molecules like geosmin which bacteria produce. He also described super interesting evolution in a test tube experiment he performs to study why bacteria produce such fascinating molecules. 
