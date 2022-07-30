@@ -12,3 +12,4 @@ Plants are everywhere Ever noticed something about their colour? Yes, most of th
 In our Ask A Scientist segment, listen to Dr Gitanjali Yadav, who studies plants using computers! If you want to learn more about her work, check out her website (http://www.nipgr.ac.in/research/dr_gyadav.php).
 
 
+[Illustration](assets/images/projects/iaw_s1_e1_illustration.png)
