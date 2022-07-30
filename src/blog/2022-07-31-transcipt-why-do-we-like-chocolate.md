@@ -2,7 +2,7 @@
 title: "[Transcript] IndiaAsksWhy | Why Do We Like Chocolate?"
 des: ""
 postDate: "2022-07-31"
-img: "/assets/images/projects/iaw_s2_e1_libsyn_cover.jpeg"
+img: "/assets/images/projects/iaw_s2_e1_libsyn_cover.jpg"
 featureImg: "/assets/images/iaw_characters.jpeg"
 author: "Khushi Goel"
 tags: ["transcript"]
