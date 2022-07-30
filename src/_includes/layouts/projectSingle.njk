@@ -12,7 +12,6 @@
               </h1>
               <div class="site-project-single-image">
                 <img src="{{img}}" >
-                <img src="{{featureImg2}}" >
               </div>
               <div align = "left">
               {% if audio %}
@@ -24,6 +23,9 @@
               </div>
               <div class="site-project-single-description">
                 {{content | safe}}
+              </div>
+              <div class = 'site-project-illustration-image'>
+                <img src="{{featureImg2}}" >
               </div>
               {% if collections.episodes %}
               {% set nextPost = collections.episodes | getNextCollectionItem(page) %}

@@ -592,6 +592,23 @@ textarea.form-control {
     width: 100%;
   }
 }
+
+.site-project-illustration-image {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 30px;
+}
+.site-project-illustration-image img {
+  width: 100%;
+}
+.site-project-illustration-image img:nth-child(2n) {
+  margin-right: auto;
+}
+@media (max-width: 767px) {
+  .site-project-illustration-image img {
+    width: 100%;
+  }
+}
 .site-project-single-description {
   margin-bottom: 50px;
 }
