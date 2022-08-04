@@ -68,5 +68,6 @@
 
   "back2topIcon":"/assets/images/to-top.svg",
   "customerComment":"I want to visit again",
-  "maintainedBy": "Shweata N. Hegde"
+  "maintainedBy": "Shweata N. Hegde",
+  "license": "/assets/images/Cc-by-nc-sa_icon.svg"
 }
