@@ -2,7 +2,7 @@
 title: "[Transcript] IndiaAsksWhy | Why Do Trees Not Stop Growing?"
 des: ""
 postDate: "2022-07-31"
-img: "/assets/images/projects/iaw_s2_e2_libsyn_cover.jpeg"
+img: "/assets/images/projects/iaw_s2_e2_libysn_cover.jpeg"
 featureImg: "/assets/images/iaw_characters.jpeg"
 author: "Khushi Goel"
 tags: ["transcript"]

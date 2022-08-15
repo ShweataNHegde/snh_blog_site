@@ -1,7 +1,7 @@
 ---
 subTitle: "S2|E2" 
 title: "Why Do Trees Not Stop Growing?"
-img: "/assets/images/projects/iaw_s2_e2_libsyn_cover.jpeg"
+img: "/assets/images/projects/iaw_s2_e2_libysn_cover.jpeg"
 postDate: '2022-08-15'
 linkText: "Click here to listen"
 audio: "/assets/audio/iaw_s2_e2.mp3"
