@@ -11,3 +11,9 @@ featureImg2: "/assets/images/projects/iaw_s1_e1_illustration.png"
 Plants are everywhere Ever noticed something about their colour? Yes, most of them are green. Have you wondered why are plants green? Like why not orange or blue? Utsuka and Jigyaasa had the same question, too! Join them in this episode to know exactly why plants are green. 
 
 In our Ask A Scientist segment, listen to Dr Gitanjali Yadav, who studies plants using computers! If you want to learn more about her work, check out her [website](http://www.nipgr.ac.in/research/dr_gyadav.php).
+
+## Illustration. 
+
+You follow this poster along while you listen to the episode. 
+
+<img src = "/assets/images/projects/iaw_s1_e1_poster.png" width = 100%>
