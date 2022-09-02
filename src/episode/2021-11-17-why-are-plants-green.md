@@ -16,3 +16,5 @@ In our Ask A Scientist segment, listen to Dr Gitanjali Yadav, who studies plants
 You follow this poster along while you listen to the episode. 
 
 <img src = "/assets/images/projects/iaw_s1_e1_poster.png" width = 100%>
+
+Illustration Credit: Riya Sheokand 
