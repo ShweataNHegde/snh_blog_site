@@ -31,7 +31,7 @@ In the class of 20, most were active, but the last benchers didn't seem too invo
 I had to explain a concept at least three times for the students to get them. Putting out the episodes is only half the job done. Having live discussions with school students makes it complete. I also think we should catch hold of similar schools/organizations that would let us talk with high school students, even if it's on a quick video call.
 
 ### Content
-The visuals helped. I could use the infographics we are developing next time around. The students enjoyed videos of springtails and aerosol generation. The slides also ensured that I stuck to the outline I had set for myself. 
+The visuals helped. I could use the infographics we are developing next time around. The students enjoyed videos of springtails and aerosol generation. The slides also ensured that I stuck to the outline I had set for myself (huge thanks to Ruchi for helping me out with coming up with the structure). 
 
 ## What could have been different
 - I could have, 
