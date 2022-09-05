@@ -5,7 +5,7 @@ postDate: "2022-09-05"
 img: "/assets/images/projects/iaw_s2_trailer_libsyn_cover.jpg"
 featureImg: "/assets/images/iaw_characters.jpeg"
 author: "Shweata N. Hegde"
-tags: ["extra"]
+tags: ["blogpost", "extra"]
 ---
 The Indian education system is so exam-oriented that it strips away the students' ability to think. Frustrated with the system, Ruchi Manglunia and I started IndiaAsksWhy in 2021. We wanted to show high schoolers that science is about chasing curiosity. Cut to the present, we have now finished season 1 and are running season 2. You can listen to episodes and explore the podcast at [indiaaskswhy.org](https://www.indiaaskswhy.org/).
 
