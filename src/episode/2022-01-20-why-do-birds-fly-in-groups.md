@@ -11,3 +11,10 @@ Have you ever looked up at the sky and wondered why some birds fly in groups? Jo
 
 In the Ask A Scientist segment, they both talk to Dr. Vishwesha Guttal (https://teelabiisc.wordpress.com/), a theoretical ecologist, to know why some animals group whereas others don’t. He also talks about how researchers use maths and computers to study grouping and other behaviours.
 
+## Illustration
+
+You follow this poster along while you listen to the episode. 
+
+<img src = "/assets/images/projects/iaw_s1_e3_poster.png" width = 100%>
+
+Illustration Credit: Riya Sheokand 
