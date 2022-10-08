@@ -10,3 +10,11 @@ audio: "/assets/audio/iaw_s1_e4.mp3"
 Utsuka and Jigyasa, on their recent trip to the zoo wondered why tigers have stripes. We’re sure you must have had that question, too! Listen to this portfolio as they explore why!
 
 👨‍🔬In the Ask A Scientist segment, they both talk to [Mihir Trivedi](https://​jigyasa​-csir​.in/​c​c​m​b​/​t​2​-​m​3​/​m​o​d​u​l​e​/​c​o​n​t​e​n​t.pdf), a wildlife biologist, to know the purpose of these stripes in the wild. He also talks about his life as a biologist in the wild!
+
+## Illustration
+
+You follow this poster along while you listen to the episode. 
+
+<img src = "/assets/images/projects/iaw_s1_e4_poster.png" width = 100%>
+
+Illustration Credit: Riya Sheokand 
