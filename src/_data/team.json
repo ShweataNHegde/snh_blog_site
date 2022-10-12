@@ -52,7 +52,7 @@
     },
     {
       "name": "Ira Zibbu",
-      "dig": "Audio Editor",
+      "dig": "Audio Editor (past)",
       "img": "/assets/images/team/ira_zibbu.jpg",
       "social":[
         {
@@ -104,21 +104,21 @@
       ]
     },
     {
-      "name": "Siva Shakthi A.",
+      "name": "Riya Sheokand",
       "dig": "Social Media Strategist",
-      "img": "/assets/images/team/siva_shakthi_a.jpg",
+      "img": "/assets/images/team/riya_sheokand.jpg",
       "social":[
         {
           "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/siva-shakthi-a-13a2449b/?originalSubdomain=in"
+          "link": "https://in.linkedin.com/in/riya-sheokand-05b9a11b0"
         },
         {
           "icon": "twitter",
-          "link": "https://twitter.com/sivashakthia"
+          "link": "https://twitter.com/RiyaSheokand"
         },
         {
           "icon": "instagram",
-          "link": "https://www.instagram.com/a_siva_shakthi/"
+          "link": "https://www.instagram.com/look_its_me_again/"
         }
       ]
     },
