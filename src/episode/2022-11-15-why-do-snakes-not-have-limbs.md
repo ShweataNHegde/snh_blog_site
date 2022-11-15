@@ -1,7 +1,7 @@
 ---
 subTitle: "S2|E5" 
 title: "Why Do Snakes Not Have Limbs?"
-img: "/assets/images/projects/iaw_s2_e5_libsyn_cover.jpeg"
+img: "/assets/images/projects/iaw_s2_e5_libysn_cover.jpeg"
 postDate: '2022-11-15'
 linkText: "Click here to listen"
 audio: "/assets/audio/iaw_s2_e5.mp3"
