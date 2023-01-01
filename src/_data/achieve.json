@@ -3,11 +3,7 @@
   "achievements":[
     {
       "title": "episodes",
-      "counter": "6"
-    },
-    {
-      "title": "Questions answered",
-      "counter": "80"
+      "counter": "10"
     }
   ]
 }
