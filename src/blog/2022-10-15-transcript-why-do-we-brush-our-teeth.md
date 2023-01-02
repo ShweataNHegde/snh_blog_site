@@ -30,57 +30,87 @@ U: Utsuka and Jigyasa were chatting about the day when they had loads and loads 
 
 [01:18]
 U: In our first episode, we enjoyed eating chocolate. Oops! I meant we enjoyed discussing why we like chocolate.
+
 [01:28]
 J: When I was young, mom used to say if I ate a lot of chocolate, I would get cavities.
+
 [01:38]
 U: Haha! Your mom is right, Jigyasa. That’s why we remove chocolate or food stuck in our teeth by brushing.
+
 [01:44]
-J: Yeah! But Utsuka, why do we need to brush our teeth to remove the food, can’t I just gargle? Also, how does chocolate and food cause cavities? 
+J: Yeah! But Utsuka, why do we need to brush our teeth to remove the food, can’t I just gargle? Also, how does chocolate and food cause cavities?
+
 [Typing sound]
+
 [02:01]
 U: Hmm...To answer your question, we first need to understand our teeth better.
+
 J: What do I not know about them? We have different types of teeth; all have an outer coating made of enamel -- the hardest substance in our entire body. 
 U: Yeah yeah, that's all cool. But let's focus on something else. Something that we can’t see. There are 700 different kinds of microbes in your mouth and a large proportion of them live on our teeth surfaces in what’s called ‘biofilms’.
+
 [02:35]
 J: Wow, but eww...
+
 U: Hey, they are not eww! Just wow. Microbial communities, the biofilms, are essential. They keep our immune system and germs in check. In other words, the microbes in biofilms are in symbiosis with each other and with us – humans.
+
 J: Oh! So, wait…what’s biofilm?
+
 [03:03]
 U: So, microbes don’t live alone, isolated on our teeth. Diverse microbes that first come to live on your teeth produce a common film or matrix which acts as a safe place for all of them to thrive and communicate. Later, many other microbes go and live in them, too. Not all microbes come of course. Only the ones like the teeth environment reside there.
+
 J: And you said they were in symbiosis with each other, right? 
 [03:42]
 U: Yes. Microbes in biofilms live in harmony. For example, one kind of microbe takes up the food we eat, digests some bits of it, and passes on the rest for others in the matrix or film to use. They also share information about new food, microbes which may be stealing food, and so on. All this is possible because they have a common platform to communicate, the matrix.
 J: How does the matrix help?
+
 [04:15]
 U: Let me give you a comparison. Isn’t it easier to share pens among each other if you are in the same classroom than to share them with someone who is in a different classroom. 
+
 J: Makes sense. But what does all this have to do with chocolates and cavities?
+
 [04:36]
 U: So, microbes in biofilms are living peacefully, sharing, and caring. But when there's chocolate stuck to your teeth, something happens...
+
 J: What happens?
+
 U: See, chocolate mainly consists of…
+
 J: Sugar!
 [04:53]
 U: Right. So the microbes in biofilm digest the sugar, convert it into acids and release those acids to the matrix. And sensing the acid comes microbes of biofilm that love delicious acids. 
+
 J: Acids are not delicious...
 [05:13]
 U: They are to these acid-loving microbes. After digesting acids, they produce more acid, in turn attracting more acid-loving microbes. Acid-loving microbes are now in majority in these biofilms instead of sharing and caring microbes. 
+
 J: So, the acid-loving microbes took over... that's a problem?
 [05:41]
 U: They convert more of the sugar into acids and change the environment. That means the microbes that usually live in the teeth biofilm become the minority. That destroys the peace. The not-so-peaceful biofilm is that sticky substance on your teeth – dental plaque. AND importantly, the acids the dental plaque produces slowly start to make a hole in your tooth's enamel.
+
 J: Hole into the hardest substance?
+
 [06:19]
 U: That's how powerful the acid these microbes produce!
+
 J: So, that's how the cavity is created. Now I get why you bought biofilms into the conversation. This is fascinating and scary at the same time. It’s like a tug-of-war is happening in my mouth all the time. 
+
 [06:40]
 U: Aha, a microbial one…
+
 J: Wait... this means that there are no external germs causing cavities? Cavities are caused by an imbalance of microbes in the biofilm? And that imbalance happens when the sugar from chocolate or other carbs gets stuck in my teeth?
+
 [07:04]
 U: Yes, you grasp things so well! There is no one culprit germ here!
+
 J: So, brushing removes food to ensure the balance of microbes in the biofilm, right?
-U: Yes, brushing teeth ensures we don't let sugars ruin the balance. But it also disrupts the matrix so that when the biofilm forms back, only the regulars come back. 
+
+U: Yes, brushing teeth ensures we don't let sugars ruin the balance. But it also disrupts the matrix so that when the biofilm forms back, only the regulars come back.
+
 J: Wow. I will brush my teeth twice a day! 
+
 [07:41]
 J: Going back, you said there were 700 species of bacteria in biofilms just in our mouth? How did scientists study them?
+
 U: Yes, let's learn more about biofilms from Dr. Kaushik, shall we?
 
 [07:57]
@@ -137,6 +167,7 @@ J: Thank you so much for spending your time with us for this interview and it ha
 
 [15:32]
 U: So do you now get why we have cavities?
+
 J: Yes, our teeth are covered by biofilm, a matrix in which various microbes live. When we eat loads of sugar, the microbes in the biofilms convert the sugar into acids. And this creates an imbalance that also degrades our tooth enamel. This causes cavities. 
 
 [16:00]
