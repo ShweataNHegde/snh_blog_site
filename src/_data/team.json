@@ -1,5 +1,5 @@
 {
-  "title": "The Team!",
+  "title": "Current Team!",
   "teamMembers":[
     {
       "name": "Megha Kumar",
@@ -51,40 +51,6 @@
       ]
     },
     {
-      "name": "Ira Zibbu",
-      "dig": "Audio Editor (past)",
-      "img": "/assets/images/team/ira_zibbu.jpg",
-      "social":[
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/cool_scootre?lang=en"
-        },
-        {
-          "icon": "instagram",
-          "link": "https://www.instagram.com/femmefatalaccident/"
-        }
-      ]
-    },
-    {
-      "name": "Indulekha M.S.",
-      "dig": "Audio Editor",
-      "img": "/assets/images/team/indulekha_ms.jpg",
-      "social":[
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/indulekha-m-s-a1a063220"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/Indulekha_m_s"
-        },
-        {
-          "icon": "instagram",
-          "link": "https://www.instagram.com/indulekha_santosh/"
-        }
-      ]
-    },
-    {
       "name": "Khushi Goel",
       "dig": "Transcriber",
       "img": "/assets/images/team/khushi_goel.jpg",
@@ -104,40 +70,59 @@
       ]
     },
     {
-      "name": "Riya Sheokand",
-      "dig": "Social Media Strategist",
-      "img": "/assets/images/team/riya_sheokand.jpg",
+      "name": "Bakul Piplani",
+      "dig": "Science Writer",
+      "img": "/assets/images/team/bakul_piplani.jpg",
       "social":[
         {
           "icon": "linkedin",
-          "link": "https://in.linkedin.com/in/riya-sheokand-05b9a11b0"
+          "link": "linkedin.com/in//"
         },
         {
           "icon": "twitter",
-          "link": "https://twitter.com/RiyaSheokand"
+          "link": "https://twitter.com/"
         },
         {
           "icon": "instagram",
-          "link": "https://www.instagram.com/look_its_me_again/"
+          "link": "https://www.instagram.com/"
         }
       ]
     },
     {
-      "name": "Venkat Sai Ganesh Gadi",
-      "dig": "Social Media Strategist (past)",
-      "img": "/assets/images/team/venkat_sai_ganesh_gadi.jpg",
+      "name": "Shakunthala Natarajan",
+      "dig": "Science Writer",
+      "img": "/assets/images/team/shakunthala_natarajan.jpg",
       "social":[
         {
           "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/venkat-sai-ganesh-gadi-1a8573163"
+          "link": "linkedin.com/in/"
         },
         {
           "icon": "twitter",
-          "link": "https://twitter.com/oxygenases"
+          "link": "https://twitter.com/"
         },
         {
           "icon": "instagram",
-          "link": ""
+          "link": "https://www.instagram.com//"
+        }
+      ]
+    },
+    {
+      "name": "Asif Khan",
+      "dig": "Social Media Strategist",
+      "img": "/assets/images/team/.jpg",
+      "social":[
+        {
+          "icon": "linkedin",
+          "link": "linkedin.com/in/"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/"
+        },
+        {
+          "icon": "instagram",
+          "link": "https://www.instagram.com//"
         }
       ]
     }

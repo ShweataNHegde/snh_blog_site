@@ -1,0 +1,77 @@
+{
+    "title": "Past Members",
+    "teamMembers":[
+        {
+            "name": "Ira Zibbu",
+            "dig": "Audio Editor",
+            "img": "/assets/images/team/ira_zibbu.jpg",
+            "social":[
+              {
+                "icon": "twitter",
+                "link": "https://twitter.com/cool_scootre?lang=en"
+              },
+              {
+                "icon": "instagram",
+                "link": "https://www.instagram.com/femmefatalaccident/"
+              }
+            ]
+          },
+          {
+            "name": "Indulekha M.S.",
+            "dig": "Audio Editor",
+            "img": "/assets/images/team/indulekha_ms.jpg",
+            "social":[
+              {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/indulekha-m-s-a1a063220"
+              },
+              {
+                "icon": "twitter",
+                "link": "https://twitter.com/Indulekha_m_s"
+              },
+              {
+                "icon": "instagram",
+                "link": "https://www.instagram.com/indulekha_santosh/"
+              }
+            ]
+          },
+          {
+            "name": "Riya Sheokand",
+            "dig": "Social Media Strategist",
+            "img": "/assets/images/team/riya_sheokand.jpg",
+            "social":[
+              {
+                "icon": "linkedin",
+                "link": "https://in.linkedin.com/in/riya-sheokand-05b9a11b0"
+              },
+              {
+                "icon": "twitter",
+                "link": "https://twitter.com/RiyaSheokand"
+              },
+              {
+                "icon": "instagram",
+                "link": "https://www.instagram.com/look_its_me_again/"
+              }
+            ]
+          },
+          {
+            "name": "Venkat Sai Ganesh Gadi",
+            "dig": "Social Media Strategist",
+            "img": "/assets/images/team/venkat_sai_ganesh_gadi.jpg",
+            "social":[
+              {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/venkat-sai-ganesh-gadi-1a8573163"
+              },
+              {
+                "icon": "twitter",
+                "link": "https://twitter.com/oxygenases"
+              },
+              {
+                "icon": "instagram",
+                "link": ""
+              }
+            ]
+          }
+    ]
+}
