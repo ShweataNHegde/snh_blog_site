@@ -5,7 +5,7 @@ postDate: "2023-02-25"
 img: "/assets/images/projects/.jpeg"
 featureImg: "/assets/images/iaw_characters.jpeg"
 author: "Ankita"
-tags: ["blogpost"]
+tags: ["blogpost", "report"]
 ---
 “Why is sky blue?”, “Why do trees never stop growing? ” “Why are babies cute?” etc. – questions like these are powerful to create curiosity and inquisitiveness in learners. The saying “Curiosity is the fuel for discovery, inquiry, and learning” highlights the importance of exploration. 
 To encourage such a questioning attitude, a science podcast, “IndiaAsksWhy”, was started by young enthusiastic communicators: Shweata N. Hegde, Ruchi Manglunia, and Dr. Megha Kumar. In this podcast series, the two characters, Utsuka and Jigyasa, ask and answer curious questions. Scientists from varied disciplines join to help them understand the answers. IndiaAsksWhy is one of the awardees of the IndiaBioscience Extension Grant. 
