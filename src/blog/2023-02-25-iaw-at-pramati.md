@@ -2,7 +2,7 @@
 title: "IndiaAsksWhy Team Visits Pramati Hill View Academy, Mysuru"
 des: "We visited IndiaAsksWhy along with Divya Kumar. Here is a report from one of the students who attended the session."
 postDate: "2023-02-25"
-img: "/assets/images/projects/.jpeg"
+img: "/assets/images/blog/iaw_at_pramati.jpg"
 featureImg: "/assets/images/iaw_characters.jpeg"
 author: "Ankita"
 tags: ["blogpost", "report"]
