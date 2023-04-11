@@ -72,6 +72,7 @@
             </div>
           </div>
           {% for episode in collections.episodes | reverse %}
+            {% if (loop.index <= 6) %}
           <div class="col-lg-6 col-md-10 mx-auto">
             <div class="site-project-item">
               <div class="site-project-item-thumb">
@@ -84,6 +85,7 @@
               </div>
             </div>
           </div>
+          {% endif %}
           {% endfor %}
           <div class="col-12 text-center text-lg-left">
             <a href="/{{episode.seeAllbtn.link}}" class="site-project-cta">{{episode.seeAllbtn.text}}</a>
