@@ -76,15 +76,15 @@
       "social":[
         {
           "icon": "linkedin",
-          "link": "linkedin.com/in//"
+          "link": "https://www.linkedin.com/in/bakul-piplani/"
         },
         {
           "icon": "twitter",
-          "link": "https://twitter.com/"
+          "link": "https://twitter.com/BakulPiplani"
         },
         {
           "icon": "instagram",
-          "link": "https://www.instagram.com/"
+          "link": "https://www.instagram.com/bakul.piplani/"
         }
       ]
     },
@@ -95,34 +95,22 @@
       "social":[
         {
           "icon": "linkedin",
-          "link": "linkedin.com/in/"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/"
-        },
-        {
-          "icon": "instagram",
-          "link": "https://www.instagram.com//"
+          "link": "https://www.linkedin.com/in/shakunthala-natarajan"
         }
       ]
     },
     {
       "name": "Asif Khan",
       "dig": "Social Media Strategist",
-      "img": "/assets/images/team/.jpg",
+      "img": "/assets/images/team/asif_khan.jpg",
       "social":[
         {
-          "icon": "linkedin",
-          "link": "linkedin.com/in/"
-        },
-        {
           "icon": "twitter",
-          "link": "https://twitter.com/"
+          "link": "https://twitter.com/@khan_asi_f"
         },
         {
           "icon": "instagram",
-          "link": "https://www.instagram.com//"
+          "link": "https://www.instagram.com/@khan_asi_f/"
         }
       ]
     }
