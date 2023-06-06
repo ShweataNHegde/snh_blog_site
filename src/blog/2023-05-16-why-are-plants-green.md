@@ -24,16 +24,16 @@ Having gotten so far, Utsuka and Jigyasa are wondering, how plants got to develo
 We have looked at the various wonders of the plant world with Utsuka and Jigyasa. But I bet, you might be interested in joining them live in their adventure and getting to hear their first-hand narratives. It is now time to gear up your headphones and [listen to their voices in the podcast](https://www.indiaaskswhy.org/episode/2021-11-17-why-are-plants-green/)!
 
 ### References:
-1. Difference between oxygenic and anoxygenic photosynthesis (2022) BYJUS. BYJU'S. Available at: https://byjus.com/neet/difference-between-oxygenic-and-anoxygenic-photosynthesis/  (Accessed: April 13, 2023).
-2. Monotropa uniflora (2023) Wikipedia. Wikimedia Foundation. Available at: https://en.wikipedia.org/wiki/Monotropa_uniflora (Accessed: April 14, 2023).
-3. Ortega, R. P. Why are plants green? to reduce the noise in photosynthesis. Quanta Magazine (2020). Available at: https://www.quantamagazine.org/why-are-plants-green-to-reduce-the-noise-in-photosynthesis-20200730/. (Accessed: 25th March 2023).
+1. Difference between oxygenic and anoxygenic photosynthesis (2022) BYJUS. BYJU'S. Available at: [https://byjus.com/neet/difference-between-oxygenic-and-anoxygenic-photosynthesis/](https://byjus.com/neet/difference-between-oxygenic-and-anoxygenic-photosynthesis/)  (Accessed: April 13, 2023).
+2. Monotropa uniflora (2023) Wikipedia. Wikimedia Foundation. Available at: [https://en.wikipedia.org/wiki/Monotropa_uniflora](https://en.wikipedia.org/wiki/Monotropa_uniflora) (Accessed: April 14, 2023).
+3. Ortega, R. P. Why are plants green? to reduce the noise in photosynthesis. Quanta Magazine (2020). Available at: [https://www.quantamagazine.org/why-are-plants-green-to-reduce-the-noise-in-photosynthesis-20200730/](https://www.quantamagazine.org/why-are-plants-green-to-reduce-the-noise-in-photosynthesis-20200730/). (Accessed: 25th March 2023).
 4. Sánchez‐Baracaldo, P. and Cardona, T. (2019) “On the origin of oxygenic photosynthesis and cyanobacteria,” New Phytologist, 225(4), pp. 1440–1446. Available at: https://doi.org/10.1111/nph.16249
-5. Sezen, U. (2019) How does the purple bacteria photosynthesize? Beckman Institute-UIUC (2015), Nature Documentaries. Nature Documentaries.org. Available at: http://naturedocumentaries.org/10031/purple-bacteria-photosynthesis-chromatophore-molecular-structure/ (Accessed: April 13, 2023).
-6. Society, N.G. (2022) Photosynthesis, Education. Available at: https://education.nationalgeographic.org/resource/photosynthesis/ (Accessed: April 12, 2023).
-7. Sonuhoney (2016) Fascinating facts about photosynthesis of non green plants, Blog.Nurserylive.com. Blog.Nurserylive.com. Available at: https://blog.nurserylive.com/2016/07/27/fascinating-facts-about-photosynthesis-of-non-green-plants-and-gardening-in-india (Accessed: April 14, 2023).
-8. Why are plants green? John Innes Centre (2021). Available at: https://www.jic.ac.uk/blog/why-are-plants-green/. (Accessed: 25th March 2023).
-Blog on the scientist
+5. Sezen, U. (2019) How does the purple bacteria photosynthesize? Beckman Institute-UIUC (2015), Nature Documentaries. Nature Documentaries.org. Available at: [http://naturedocumentaries.org/10031/purple-bacteria-photosynthesis-chromatophore-molecular-structure/](http://naturedocumentaries.org/10031/purple-bacteria-photosynthesis-chromatophore-molecular-structure/) (Accessed: April 13, 2023).
+6. Society, N.G. (2022) Photosynthesis, Education. Available at: [https://education.nationalgeographic.org/resource/photosynthesis/](https://education.nationalgeographic.org/resource/photosynthesis/) (Accessed: April 12, 2023).
+7. Sonuhoney (2016) Fascinating facts about photosynthesis of non green plants, Blog.Nurserylive.com. Blog.Nurserylive.com. Available at: [https://blog.nurserylive.com/2016/07/27/fascinating-facts-about-photosynthesis-of-non-green-plants-and-gardening-in-india](https://blog.nurserylive.com/2016/07/27/fascinating-facts-about-photosynthesis-of-non-green-plants-and-gardening-in-india) (Accessed: April 14, 2023).
+8. Why are plants green? John Innes Centre (2021). Available at: [https://www.jic.ac.uk/blog/why-are-plants-green/](https://www.jic.ac.uk/blog/why-are-plants-green/). (Accessed: 25th March 2023).
+9. IndiaAsksWhy's blog on Dr Gitanjali Yadav: [https://www.indiaaskswhy.org/blog/2023-05-17-indiaaskswhy-meets-gitanjali-yadav/](https://www.indiaaskswhy.org/blog/2023-05-17-indiaaskswhy-meets-gitanjali-yadav/)
 
 
-## Credits
+#### Credits
 - Cover Image (J Swanstrom, Flickr)
