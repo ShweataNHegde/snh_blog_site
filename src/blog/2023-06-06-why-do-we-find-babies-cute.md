@@ -17,7 +17,7 @@ Utsuka and Jigyasa are now in complete awe of the cuteness story of babies. But,
 
 But we do not find human babies alone to be cute, right?  How many love petting cats, dogs and other pet animals?! All the puppies and kittens are show stealers like human babies. Young ones of most animals have the cuteness blueprint – big eyes, small nose, and tiny mouth – making them attractive to us. Not only that, any object with cuteness features looks cute to us. That’s why even young ones in cartoons look cute to us. Remember the incredibly cute baby Jack-Jack Parr of Incredibles? 
 
-<img src = "*/snh_blog_site/assets/images/blog/iaw_s1_e1_blog_illustration.png">
+<img src = "/assets/images/blog/iaw_s1_e1_blog_illustration.png">
 
 
 Through our journey into the world of babies with Utsuka, Jigyasa and Dr. Vaidya, we understood that we find babies cute  as a result of years of evolution to increase the survival chances of the helpless young-ones. We also got to know that the  design of cuteness as an emotion is now in-built in the adult brains because the survival of babies ensures survival of the whole species  on the planet! If the cute babies have kindled your curiosity, and you want to know more about them, gear up your headphones and listen to Utsuka and Jigyasa’s voices in the podcast!
@@ -25,7 +25,7 @@ Through our journey into the world of babies with Utsuka, Jigyasa and Dr. Vaidya
 References
 
 1. Saini, A. (no date) The code for Cuteness, BBC Earth. Available at: [https://www.bbcearth.com/news/the-code-for-cuteness](https://www.bbcearth.com/news/the-code-for-cuteness) (Accessed: April 26, 2023).
-1. Tarlach, G. (2020) Why babies are so cute - and why we react the way we do, Discover Magazine. Discover Magazine. Available at: [https://www.discovermagazine.com/mind/why-babies-are-so-cute-and-why-we-react-the-way-we-do](https://www.discovermagazine.com/mind/why-babies-are-so-cute-and-why-we-react-the-way-we-do) (Accessed: April 26, 2023).
-1. Resnick, B. (2016) Babies' cuteness is key to their survival. what happens when they're not that cute?, Vox. Vox. Available at: [https://www.vox.com/2016/6/8/11872688/ugly-babies-discrimination](https://www.vox.com/2016/6/8/11872688/ugly-babies-discrimination) (Accessed: April 24, 2023).
-1. Why do babies' features seem so cute? (2021) Science ABC. Available at: [https://www.scienceabc.com/nature/why-do-we-find-babies-cute.html](https://www.scienceabc.com/nature/why-do-we-find-babies-cute.html) (Accessed: April 24, 2023).
-1. Babies don't just look cute, scientists find (no date) University of Oxford. Available at: [https://www.ox.ac.uk/news/2016-06-07-babies-dont-just-look-cute-scientists-find](https://www.ox.ac.uk/news/2016-06-07-babies-dont-just-look-cute-scientists-find) (Accessed: April 26, 2023).
+2. Tarlach, G. (2020) Why babies are so cute - and why we react the way we do, Discover Magazine. Discover Magazine. Available at: [https://www.discovermagazine.com/mind/why-babies-are-so-cute-and-why-we-react-the-way-we-do](https://www.discovermagazine.com/mind/why-babies-are-so-cute-and-why-we-react-the-way-we-do) (Accessed: April 26, 2023).
+3. Resnick, B. (2016) Babies' cuteness is key to their survival. what happens when they're not that cute?, Vox. Vox. Available at: [https://www.vox.com/2016/6/8/11872688/ugly-babies-discrimination](https://www.vox.com/2016/6/8/11872688/ugly-babies-discrimination) (Accessed: April 24, 2023).
+4. Why do babies' features seem so cute? (2021) Science ABC. Available at: [https://www.scienceabc.com/nature/why-do-we-find-babies-cute.html](https://www.scienceabc.com/nature/why-do-we-find-babies-cute.html) (Accessed: April 24, 2023).
+5. Babies don't just look cute, scientists find (no date) University of Oxford. Available at: [https://www.ox.ac.uk/news/2016-06-07-babies-dont-just-look-cute-scientists-find](https://www.ox.ac.uk/news/2016-06-07-babies-dont-just-look-cute-scientists-find) (Accessed: April 26, 2023).
