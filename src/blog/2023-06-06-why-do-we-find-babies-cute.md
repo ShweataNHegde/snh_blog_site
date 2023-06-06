@@ -19,7 +19,7 @@ But we do not find human babies alone to be cute, right?  How many love petting 
 
 <img src = "/assets/images/blog/iaw_s1_e2_blog_illustration.png" width = 100%>
 
-Through our journey into the world of babies with Utsuka, Jigyasa and Dr. Vaidya, we understood that we find babies cute  as a result of years of evolution to increase the survival chances of the helpless young-ones. We also got to know that the  design of cuteness as an emotion is now in-built in the adult brains because the survival of babies ensures survival of the whole species  on the planet! If the cute babies have kindled your curiosity, and you want to know more about them, gear up your headphones and listen to Utsuka and Jigyasa’s voices in the podcast!
+Through our journey into the world of babies with Utsuka, Jigyasa and Dr. Vaidya, we understood that we find babies cute  as a result of years of evolution to increase the survival chances of the helpless young-ones. We also got to know that the  design of cuteness as an emotion is now in-built in the adult brains because the survival of babies ensures survival of the whole species  on the planet! If the cute babies have kindled your curiosity, and you want to know more about them, gear up your headphones and listen to Utsuka and Jigyasa’s voices in the [podcast](https://www.indiaaskswhy.org/episode/2021-11-17-why-are-plants-green/)!
 
 References
 
