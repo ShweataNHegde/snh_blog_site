@@ -21,11 +21,11 @@ Stay curious and leave your questions on our website! :)
  
  
 References:
-1. 	The code for cuteness. Angela Saini, BBC Earth [https://www.bbcearth.com/news/the-code-for-cuteness]
-2. 	Why Babies Are So Cute — And Why We React the Way We Do. Gemma Tarlach, Discover Magazine (13th Nov, 2019) [https://www.discovermagazine.com/mind/why-babies-are-so-cute-and-why-we-react-the-way-we-do]
-3. 	Understanding Animal Models. Kayt Sukel, Dana Foundation (1st Oct, 2021) [https://dana.org/article/understanding-animal-models/#:~:text=Animal%20models%20are%20built%20upon,of%20brain%20function%20and%20behavior.]
-4. 	Making and breaking connections in the brain. Amber Dance, Knowable Magazine (18th Aug, 2020) [https://knowablemagazine.org/article/health-disease/2020/what-does-a-synapse-do]
-5. 	Add citation for the blog on the science
-6. 	Infosys Prize: Vidita Vaidya [https://www.infosysprize.org/laureates/2022/vidita-vaidya.html]
-7. 	Tata Institute of Fundamental Research: Vidita Vaidya [https://www.tifr.res.in/~dbs/faculty/V_Vaidya.html]
+1. 	The code for cuteness. Angela Saini, BBC Earth [https://www.bbcearth.com/news/the-code-for-cuteness](https://www.bbcearth.com/news/the-code-for-cuteness)
+2. 	Why Babies Are So Cute — And Why We React the Way We Do. Gemma Tarlach, Discover Magazine (13th Nov, 2019) [https://www.discovermagazine.com/mind/why-babies-are-so-cute-and-why-we-react-the-way-we-do](https://www.discovermagazine.com/mind/why-babies-are-so-cute-and-why-we-react-the-way-we-do)
+3. 	Understanding Animal Models. Kayt Sukel, Dana Foundation (1st Oct, 2021) [https://dana.org/article/understanding-animal-models/#:~:text=Animal%20models%20are%20built%20upon,of%20brain%20function%20and%20behavior](https://dana.org/article/understanding-animal-models/#:~:text=Animal%20models%20are%20built%20upon,of%20brain%20function%20and%20behavior)
+4. 	Making and breaking connections in the brain. Amber Dance, Knowable Magazine (18th Aug, 2020) [https://knowablemagazine.org/article/health-disease/2020/what-does-a-synapse-do](https://knowablemagazine.org/article/health-disease/2020/what-does-a-synapse-do)
+5. 	IndiaAsksWhy Blog on Why are Babies Cute: [https://www.indiaaskswhy.org/blog/2023-06-06-why-do-we-find-babies-cute/](https://www.indiaaskswhy.org/blog/2023-06-06-why-do-we-find-babies-cute/)
+6. 	Infosys Prize: Vidita Vaidya [https://www.infosysprize.org/laureates/2022/vidita-vaidya.html](https://www.infosysprize.org/laureates/2022/vidita-vaidya.html)
+7. 	Tata Institute of Fundamental Research: Vidita Vaidya [https://www.tifr.res.in/~dbs/faculty/V_Vaidya.html](https://www.tifr.res.in/~dbs/faculty/V_Vaidya.html)
  
