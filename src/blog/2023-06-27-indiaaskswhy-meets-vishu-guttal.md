@@ -20,6 +20,6 @@ Dr. Guttal encourages science enthusiasts to develop a scientific temper, that i
 So, keep thinking, stay curious, and leave your questions on our website! :)
  
 ## References:
-Why birds flock together? The Royal Society for the Protection of Birds (RSPB). [https://www.rspb.org.uk/birds-and-wildlife/natures-home-magazine/birds-and-wildlife-articles/features/why-birds-flock-together/#:~:text=the%20Joneses%20too!-,Safety%20in%20numbers,it%20away)%20or%20agile%20flight.](https://www.rspb.org.uk/birds-and-wildlife/natures-home-magazine/birds-and-wildlife-articles/features/why-birds-flock-together/#:~:text=the%20Joneses%20too!-,Safety%20in%20numbers,it%20away)%20or%20agile%20flight.)
-Theoretical Ecology and Evolution Laboratory, IISc [https://teelabiisc.wordpress.com/](https://teelabiisc.wordpress.com/)
-Vishwesha Guttal, Centre for Ecological Sciences, IISc [https://ces.iisc.ac.in/?q=user/36](https://ces.iisc.ac.in/?q=user/36)
+1. Why birds flock together? The Royal Society for the Protection of Birds (RSPB). [https://www.rspb.org.uk/birds-and-wildlife/natures-home-magazine/birds-and-wildlife-articles/features/why-birds-flock-together/](https://www.rspb.org.uk/birds-and-wildlife/natures-home-magazine/birds-and-wildlife-articles/features/why-birds-flock-together/)
+2. Theoretical Ecology and Evolution Laboratory, IISc [https://teelabiisc.wordpress.com/](https://teelabiisc.wordpress.com/)
+3. Vishwesha Guttal, Centre for Ecological Sciences, IISc [https://ces.iisc.ac.in/?q=user/36](https://ces.iisc.ac.in/?q=user/36)
