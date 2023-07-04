@@ -1,0 +1,27 @@
+---
+title: "Why Do Tigers Have Strips? Science Blog"
+des: ""
+postDate: "2023-07-04"
+img: "/assets/images/blog/iaw_s1_e4_blog_cover.jpg"
+featureImg: "/assets/images/iaw_characters.jpeg"
+author: "Shakunthala Natarajan"
+tags: ["blogpost"]
+---
+It is a bright sunny afternoon in the jungles. A huge tiger is on the hunt for its prey - a young deer! The tiger slowly moves through the tall grasses and walks down stealthily towards its prey. Whoosh… In a flash of a second, the tiger pounces on the deer. How many of you have watched such terrific tiger hunts in one of those Animal planet or Discovery shows? Have you wondered about the stripes on these wonderful hunters? Do you want to know why tigers have those stripes? Then do join Utsuka and Jigyasa as they find the answers to this question in this podcast of IndiaAsksWhy.
+
+First let us look at the skin colours of a tiger. Have you ever wondered what is the reason for the tiger stripes being differently coloured from their skin? Well, the answer lies in a colour-giving pigment called melanin produced by cells called melanocytes. Tiger stripes are made of cells producing a kind of melanin called ‘Eumelanin’, that appears black. The orange and yellow tinted skin appears so because of a pigment called ‘Pheomelanin’. But how do these cells know where to paint the pigments and produce the stripe pattern? Do they have secret guides to solve this puzzle? Yes! These helpers are called genes! A group of genes called ‘planner genes’ prepare a layout plan for placing the melanocytes in their respective places. These stripe patterns are planned and created even before the tiger is born. Another bunch of genes called ‘executive genes’ supervise the melanocytes and ensure if they follow the layout blueprint and produce the correct pigment. These tiny workers together cause the bright orange-black pattern to appear on the tigers. Do you also know that these stripe patterns are unique to a tiger? This is similar to the uniqueness of fingerprints in humans.
+
+<img src = "/assets/images/blog/iaw_s1_e4_blog_illustration.png" width = 100%>
+
+Utsuka and Jigyasa are fascinated by the mechanism behind the tiger stripe pattern. I bet you must also be! Moving on, you must now be thinking what’s the purpose for such a striped pattern to exist on the tiger skin, right? Wildlife biologist Dr Mihir Trivedi helps us understand the reason behind this. Tigers are large predators and hence need not hide from animals that could predate them. On the other hand, unlike the lions, tigers hunt their prey alone. So, they need to approach their prey very secretively and avoid attracting its attention. Prey animals like deer and a few other hoofed animals are colour blind, especially in dim light. That is, they can see only two colours, say, green and blue. They cannot differentiate between the bushes and the hunting tigers, thus confusing them. But in bright sunlight, the tiger stripes play another trick! The stripes visually split the tiger’s body and make the different segments resemble and merge with the bright sun rays. This misleads the poor prey again :(. This extraordinary phenomenon is called ‘disruptive colouration’. Tigers’ striped pattern, thus serves like Harry potter’s invisibility cloak :) and helps them have a hearty meal! 
+
+We had a nice journey into the wild and got to know why our tiger friends have those stylish stripes on them. You must surely be more curious to tune in and listen Utsuka and Jigyasa’s voices in our podcast. It is now time to gear up your headphones and get started with your Science quest!
+
+## References
+1. Disruptive coloration and binocular disparity: Breaking camouflage ... Available at: [https://royalsocietypublishing.org/doi/10.1098/rspb.2018.2045](https://royalsocietypublishing.org/doi/10.1098/rspb.2018.2045) (Accessed: 08 June 2023).
+2. Andrew Cushing Assistant Professor in Zoological Medicine (2023) Why do tigers have stripes?, The Conversation. Available at: [https://theconversation.com/why-do-tigers-have-stripes-145223]( https://theconversation.com/why-do-tigers-have-stripes-145223) (Accessed: 10 June 2023).
+3. Estep, E. (2023) The conversation: Why do tigers have stripes?, News. Available at: [https://news.utk.edu/2020/11/23/the-conversation-why-do-tigers-have-stripes/](https://news.utk.edu/2020/11/23/the-conversation-why-do-tigers-have-stripes/ ) (Accessed: 07 June 2023).
+4. Why do tigers have stripes? (2022) Good Nature Travel Blog | Stories are made on adventures. Available at: [https://www.nathab.com/blog/why-do-tigers-have-stripes/](https://www.nathab.com/blog/why-do-tigers-have-stripes/) (Accessed: 07 June 2023).
+
+
+Cover Image: Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1868911">Pexels</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1868911">Pixabay</a>
