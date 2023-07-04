@@ -1,6 +1,6 @@
 ---
 title: "Why Do Tigers Have Strips? Science Blog"
-des: ""
+des: "How many of you have watched such terrific tiger hunts in one of those Animal planet or Discovery shows? Have you wondered about the stripes on these wonderful hunters? Do you want to know why tigers have those stripes? Then do join Utsuka and Jigyasa as they find the answers to this question in this podcast of IndiaAsksWhy."
 postDate: "2023-07-04"
 img: "/assets/images/blog/iaw_s1_e4_blog_cover.jpg"
 featureImg: "/assets/images/iaw_characters.jpeg"
