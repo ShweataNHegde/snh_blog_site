@@ -8,7 +8,7 @@ author: "Bakul Piplani"
 tags: ["blogpost"]
 ---
 
-Tigers are among the most majestic wild cats that prowl the forests. What’s more, they are the only wild cats with stripes on their bodies! Did you know that tigers not only have striped fur but also striped skin? In this episode of IndiaAsksWhy, Utsuka and Jigyasa explore how tigers develop striped skin. Fun fact: the stripes on a tiger’s skin are as unique as a human’s fingerprints!
+Tigers are among the most majestic wild cats that prowl the forests. What’s more, they are the only wild cats with stripes on their bodies! Did you know that tigers not only have striped fur but also striped skin? In this [episode](https://www.indiaaskswhy.org/episode/2022-02-17-why-tigers-have-stripes/) of IndiaAsksWhy, Utsuka and Jigyasa explore how tigers develop striped skin. Fun fact: the stripes on a tiger’s skin are as unique as a human’s fingerprints!
 
 You are probably wondering why tigers have stripes. Well, the stripes serve as a form of camouflage, that is, they help tigers hide by blending in with their environment. But why would such fearsome predators need to hide and who do they hide from? To understand the purpose of stripes on a tiger’s body, Utsuka and Jigyasa speak with Dr. Mihir Trivedi, a wildlife biologist at the Centre for Cellular and Molecular Biology (CCMB), Hyderabad. Dr. Trivedi explains that stripes help tigers to blend into the grasses and bushes and hide from their prey so that they can hunt effectively without alerting their prey.
 
