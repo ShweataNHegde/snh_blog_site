@@ -1,0 +1,32 @@
+---
+title: "Why Does Rain Smell Good? Science Blog"
+des: " Have you ever wondered why rain smells so good? You can get your answers by joining the exploration journey with Utsuka and Jigyasa in this podcast of IndiAsksWhy"
+postDate: "2023-07-18"
+img: "/assets/images/blog/iaw_s1_e5_blog_cover.jpg"
+featureImg: "/assets/images/iaw_characters.jpeg"
+author: "Shakunthala Natarajan"
+tags: ["blogpost"]
+---
+A gradual gathering of dark clouds in the sky and slight drizzling signals the rain showers. Just then you take a stroll through your garden. The cool air blows gently, prompting you to get a cup of nice hot drink and enjoy the evening. But something else gets your attention… You are suddenly able to smell a nice earthy scent. It feels like the Earth is covered with a fragrant deo! But do you know that the earth puts on this perfume only when it showers after a dry period :)? Have you ever wondered why rain smells so good? You can get your answers by joining the exploration journey with Utsuka and Jigyasa in this podcast of IndiAsksWhy. 
+
+The soothing earthy smell when it rains is called ‘petrichor’. Do you know that the perfumers making this scent are actually tiny bacteria living in the soil?! These bacteria are called Streptomyces. They like to live together in colonies and form thread-like structures in the soil called ‘hyphae’. These tiny beings are very smart. They grow when there is enough nutrients and water in the soil. But when it is dry, the hyphae structures produce ‘spores’. Spores are similar to a magic capsule in which the bacteria can be thought to hibernate without performing any biological functions! These spores have a superpower to sense their surrounding environment. When the surrounding has enough water and nutrients, the spores germinate and produce a thriving bacterial colony. A special compound called ‘geosmin’ is also produced when the spores are made. When the rain droplets hit the spores on the dry soil, they form bubbles. Geosmin gets trapped in these bubbles. These scented bubbles suspended in the air form the aerosol spray that is smelled and enjoyed by us! 
+
+<img src = "/assets/images/blog/iaw_s1_e5_blog_illustration.png" width = 100%>
+
+You might now be thinking, why do these bacteria produce ‘geosmin’, right? You might also be surprised to know that geosmin is a secondary metabolite. Utsuka and Jigyasa are also intrigued by this term ‘secondary metabolite’. They want to get a better understanding of this and decide to ask Dr Samay Pandey, an evolutionary biologist. Dr Pandey explains that secondary metabolites are compounds not needed by the bacteria for the major functions of growth and energy necessities. 
+
+Then you must now be asking, why do these microbes take so much effort to produce geosmin while forming spores? They have a strategic plan here. These bacteria produce spores that need to be moved from unfavourable surroundings to favourable ones. Unfortunately these smart chaps cannot move away by themselves. They need a transport system to reach a desirable destination. The transport vehicles in this case are small animals called ‘springtails'. Springtails get attracted by the scent of geosmin and come to feed on the spores. But wait! If the spores get eaten, how will the bacteria survive and expand? Did they take so much pain only to be eaten by the springtails? Now, the bacteria are really brainy here. They produce a large number of spores. Some of them get eaten, while the others stick on to the springtail’s body. A few other spores also come out of the springtail’s digestive system unharmed. These spores enjoy a nice tour on the springtail. The springtail  then drops off its passengers at new favourable places. 
+
+So that’s the story behind the earthy smell that accompanies gentle rain showers after some dry periods. We got to know that geosmin produced by small soil microbes gives rise to the pleasant smell of rain. Although geosmin smells nice to us humans, have you thought of its taste? Well, geosmin is an alcohol and it tastes bitter! Don’t you think it’s a strange compound that smells good but tastes bad? There are more such wonder molecules waiting to be uncovered by bright minds like you. I bet you must now be curious to join Utsuka and Jigyasa in the world of rain, through our podcast. It is now time to gear up your headphones and begin your Science quest!
+
+## References
+
+1. Bowler, J. (2020) Love the smell of rain? there’s an ulterior motive behind the lure of petrichor, ScienceAlert. Available at: [https://www.sciencealert.com/that-rain-smell-turns-out-we-re-smelling-the-circle-of-life](https://www.sciencealert.com/that-rain-smell-turns-out-we-re-smelling-the-circle-of-life) (Accessed: 18 June 2023).
+2. Halton, M. (2018) Petrichor: Why does rain smell so good?, BBC News. Available at: [https://www.bbc.com/news/science-environment-44904298](https://www.bbc.com/news/science-environment-44904298) (Accessed: 18 June 2023).
+3. Magazine, S. (2013) What makes Rain smell so good?, Smithsonian.com. Available at: [https://www.smithsonianmag.com/science-nature/what-makes-rain-smell-so-good-13806085/](https://www.smithsonianmag.com/science-nature/what-makes-rain-smell-so-good-13806085/) (Accessed: 18 June 2023).
+4. Nature curiosity: Why does rain smell so good? (no date) Accelerator. Available at: [https://www.reconnectwithnature.org/news-events/the-buzz/nature-curiosity-why-does-rain-have-a-smell/](https://www.reconnectwithnature.org/news-events/the-buzz/nature-curiosity-why-does-rain-have-a-smell/) (Accessed: 17 June 2023).
+5. Nightingale, S. (2020) Petrichor & Pluviophiles: Why the smell of rain is so seductive, The Perfume Society. Available at: [https://perfumesociety.org/petrichor-pluviophiles-why-the-smell-of-rain-is-so-seductive/](https://perfumesociety.org/petrichor-pluviophiles-why-the-smell-of-rain-is-so-seductive/) (Accessed: 18 June 2023).
+6. Peterson, E. (2022) Why does rain smell good?, LiveScience. Available at: [https://www.livescience.com/37648-good-smells-rain-petrichor.html](https://www.livescience.com/37648-good-smells-rain-petrichor.html) (Accessed: 18 June 2023).
+Why you can smell rain: Earth (2018) EarthSky. Available at: [https://earthsky.org/earth/what-is-smell-of-rain-petrichor/](https://earthsky.org/earth/what-is-smell-of-rain-petrichor/) (Accessed: 18 June 2023).
+
+Blog Cover Credit: Wikimedia Commons
