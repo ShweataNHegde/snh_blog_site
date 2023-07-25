@@ -21,10 +21,10 @@ I’m sure you must be feeling inspired by Dr. Samay Pande! So, Utsuka and Jigya
 So, stay curious, keep reading and keep listening to Utsuka and Jigyasa as they chat with Dr. Samay Pande about his exciting research with bacteria!
 
  
-References:
-Petrichor: why does rain smell so good? Mary Halton, BBC News (27th July 2018) [https://www.bbc.com/news/science-environment-44904298](https://www.bbc.com/news/science-environment-44904298)
-What Makes Rain Smell So Good? Joseph Stromberg, Smithsonian Magazine (2nd April 2013) [https://www.smithsonianmag.com/science-nature/what-makes-rain-smell-so-good-13806085/](https://www.smithsonianmag.com/science-nature/what-makes-rain-smell-so-good-13806085/)
-Why Does Rain Smell Good? Elizabeth Peterson, Live Science (1st July 2022) [https://www.livescience.com/37648-good-smells-rain-petrichor.html](https://www.livescience.com/37648-good-smells-rain-petrichor.html)
-Science blog, IndiaAsksWhy ([https://www.indiaaskswhy.org/blog/2023-07-18-why-does-rain-smell-good/](https://www.indiaaskswhy.org/blog/2023-07-18-why-does-rain-smell-good/))
-Samay Pande, Department of Microbiology and Cellular Biology, IISc Bangalore [https://mcbl.iisc.ac.in/samay-pande/](https://mcbl.iisc.ac.in/samay-pande/)
+## References:
+1. Petrichor: why does rain smell so good? Mary Halton, BBC News (27th July 2018) [https://www.bbc.com/news/science-environment-44904298](https://www.bbc.com/news/science-environment-44904298)
+1. What Makes Rain Smell So Good? Joseph Stromberg, Smithsonian Magazine (2nd April 2013) [https://www.smithsonianmag.com/science-nature/what-makes-rain-smell-so-good-13806085/](https://www.smithsonianmag.com/science-nature/what-makes-rain-smell-so-good-13806085/)
+1. Why Does Rain Smell Good? Elizabeth Peterson, Live Science (1st July 2022) [https://www.livescience.com/37648-good-smells-rain-petrichor.html](https://www.livescience.com/37648-good-smells-rain-petrichor.html)
+1. Science blog, IndiaAsksWhy ([https://www.indiaaskswhy.org/blog/2023-07-18-why-does-rain-smell-good/](https://www.indiaaskswhy.org/blog/2023-07-18-why-does-rain-smell-good/))
+1. Samay Pande, Department of Microbiology and Cellular Biology, IISc Bangalore [https://mcbl.iisc.ac.in/samay-pande/](https://mcbl.iisc.ac.in/samay-pande/)
 The Bacterial Ecology and Evolution Lab [https://www.redqueenlab.com/](https://www.redqueenlab.com/)
