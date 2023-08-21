@@ -1,7 +1,11 @@
 ---
-title: "Question Box"
+title: "Curious Explorer"
 layout: layouts/question.njk
-des: "A science podcast for young and curious minds!"
+pagination:
+  data: collections.question
+  size: 6
+  reverse: true
+  alias: question
 ---
 
 Just that
