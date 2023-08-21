@@ -7,4 +7,4 @@ pagination:
   alias: posts
   reverse: true
 ---
-Making sure it works
+# We love <span>asking</span> and exploring <span>curious</span> questions!
