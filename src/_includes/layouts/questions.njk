@@ -22,12 +22,15 @@
               <div class="site-blog-post-content">
                 <span>{{question.data.postDate}}</span>
                 <h3><a href="{{question.data.page.url}}">{{question.data.title}}</a></h3>
+                {% if question.data.askedBy %}
+                  <h4>Asked by: {{question.data.askedBy}}</h4>
+                {% endif %}
                 <p>
                   {{question.data.des}}
                 </p>
-              <h5>Tags:</h5>
+                <h4>Answered by: {{question.data.author}} </h4>
               {% for tag in question.data.tags %}
-                {% if tag !== 'blogpost' or '' %}
+                {% if tag !== 'question' or '' %}
                 <a href = "/{{tag}}">
                   <span class="button tag-button">
                   {{ tag }}
