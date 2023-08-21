@@ -8,5 +8,3 @@ pagination:
   reverse: true
   alias: questions
 ---
-
-Just that
