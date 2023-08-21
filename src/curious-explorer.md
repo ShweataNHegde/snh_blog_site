@@ -5,7 +5,7 @@ pagination:
   data: collections.question
   size: 6
   reverse: true
-  alias: question
+
 ---
 
 Just that
