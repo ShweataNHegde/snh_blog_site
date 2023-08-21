@@ -1,5 +1,5 @@
 ---
-layout: "layouts/questions.njk"
+layout: "layouts/question.njk"
 title: "Question Box!"
 pagination:
   data: collections.question
