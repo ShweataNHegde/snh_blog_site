@@ -1,11 +1,9 @@
 ---
+layout: "layouts/questions.njk"
 title: "Curious Explorer"
-layout: layouts/question.njk
-des: "More IndiaAsksWhy content!"
+des: All curious questions
 pagination:
   data: collections.question
   size: 8
   alias: questions
-  reverse: true
 ---
-Just that
