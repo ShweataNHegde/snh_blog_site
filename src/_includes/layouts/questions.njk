@@ -21,12 +21,12 @@
             <article class="site-blog-post">
               <div class="site-blog-post-content">
                 <span>{{question.data.postDate}}</span>
-                <h3><a href="{{question.data.page.url}}">{{question.data.title}}</a></h3>
-                <h4>Asked By: {{question.data.askedBy}}</h4>
+                <h4><a href="{{question.data.page.url}}">{{question.data.title}}</a></h4>
+                <h5>Asked By: {{question.data.askedBy}}</h5>
                 <p>
                   {{question.data.des}}
                 </p>
-                <h4>Answered by: {{question.data.author}}</h4>
+                <h5>Answered by: {{question.data.author}}</h5>
               <h5>Tags:</h5>
               {% for tag in question.data.tags %}
                 {% if tag !== 'question' or '' %}

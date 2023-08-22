@@ -425,7 +425,7 @@ textarea.form-control {
   margin-bottom: 10px;
 }
 
-.site-project-item-content h3, .site-blog-post-content h3 {
+.site-project-item-content h3, .site-blog-post-content h3, .site-blog-post-content h4 {
   margin-bottom: 0;
 }
 .site-project-item-content h3 a {
@@ -434,6 +434,15 @@ textarea.form-control {
   transition: 0.3s ease;
 }
 .site-project-item-content h3 a:hover {
+  color: #F18A26;
+  text-decoration: none;
+}
+.site-project-item-content h4 a {
+  letter-spacing: 0;
+  color: #00113E;
+  transition: 0.3s ease;
+}
+.site-project-item-content h4 a:hover {
   color: #F18A26;
   text-decoration: none;
 }
