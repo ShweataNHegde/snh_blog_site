@@ -1,9 +1,10 @@
 ---
 layout: "layouts/questions.njk"
 title: "Curious Explorer"
-des: All curious questions
+des: Many of you have posed us so many curious questions! In our Curious Explorer section of the website, we will try to answer them :)
 pagination:
   data: collections.question
-  size: 8
+  size: 10
   alias: questions
+  reverse: true
 ---
