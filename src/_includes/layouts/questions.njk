@@ -28,7 +28,7 @@
                 </p>
                 <h4>Answered by: {{question.data.author}}</h4>
               <h5>Tags:</h5>
-              {% for tag in post.data.tags %}
+              {% for tag in question.data.tags %}
                 {% if tag !== 'question' or '' %}
                 <a href = "/{{tag}}">
                   <span class="button tag-button">
