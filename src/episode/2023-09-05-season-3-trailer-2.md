@@ -1,7 +1,7 @@
 ---
 subTitle: "S3 " 
 title: "IndiaAsksWhy Season 3 Trailer 2"
-img: "/assets/images/projects/iaw_s1_trailer_libsyn_cover.jpg"
+img: "/assets/images/projects/iaw_s3_cover.png"
 postDate: '2023-09-05'
 linkText: "Click here to listen"
 audio: "/assets/audio/iaw_s3_trailer_2_v1.mp3"
