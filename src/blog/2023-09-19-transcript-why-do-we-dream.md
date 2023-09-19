@@ -1,5 +1,5 @@
 ---
-title: "[Transcript] IndiaAsksWhy | Why Do We Drea,?"
+title: "[Transcript] IndiaAsksWhy | Why Do We Dream?"
 des: ""
 postDate: "2023-09-19"
 img: "/assets/images/projects/iaw_s3_e1_libysn_cover.png"
