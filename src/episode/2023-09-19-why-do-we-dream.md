@@ -13,7 +13,7 @@ In the first episode of the brand new season of IndiaAsksWhy, we take a deep div
 
 We’re sure that this conversation between the curious group would have made you curious too. You can send your follow up questions on our [website]( https://www.indiaaskswhy.org/contact/), and we’ll pick them up :)
 
-The transcript to the episode can be found, [here](/blog/2023-09-19-transcript-why-do-we-dream.md)
+The transcript to the episode can be found, [here](/blog/2023-09-19-transcript-why-do-we-dream)
 
 ## References
 1. Pryor, Julie. “Why Do We Dream?” MIT McGovern Institute, 1 Aug. 2022, [mcgovern.mit.edu/2022/08/01/why-do-we-dream/](mcgovern.mit.edu/2022/08/01/why-do-we-dream/).
