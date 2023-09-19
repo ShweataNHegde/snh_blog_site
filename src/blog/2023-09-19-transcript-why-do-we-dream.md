@@ -2,12 +2,11 @@
 title: "[Transcript] IndiaAsksWhy | Why Do We Dream?"
 des: ""
 postDate: "2023-09-19"
-img: "/assets/images/projects/iaw_s3_e1_libysn_cover.png"
+img: "/assets/images/projects/iaw_s3_e1_libsyn_cover.png"
 featureImg: "/assets/images/iaw_characters.jpeg"
 author: "Khushi Goel"
 tags: ["transcript"]
 ---
-
 [00:10]
 
 Both- “Hi Everyone”
