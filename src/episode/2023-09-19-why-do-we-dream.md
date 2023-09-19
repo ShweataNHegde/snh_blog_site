@@ -26,5 +26,7 @@ We’re sure that this conversation between the curious group would have made yo
 - Students: Navika, Shatakshi, and Fareeha from Delhi Public School, Secunderabad
 - Audio Editor: Kaviranjana Antony 
 - Transcriber: Khushi Goel
+
+The transcript to the episode can be found, [here](/src/blog/2023-09-19-transcript-why-do-we-dream.md)
   
 
