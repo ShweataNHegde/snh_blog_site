@@ -21,7 +21,7 @@ We’re sure that this conversation between the curious group would have made yo
 1. Suni, Eric. “Dreams: Why We Dream & How They Affect Sleep.” Sleep Foundation, 30 Oct. 2020, [www.sleepfoundation.org/dreams](www.sleepfoundation.org/dreams).
 
 ## Credits
-- Hosts: Shweata N. Hegde and Ruchi Manglunia are the hosts of the podcast
+- Hosts: Shweata N. Hegde and Ruchi Manglunia 
 - Guest scientist: Nitin Chouhan
 - Students: Navika, Shatakshi, and Fareeha from Delhi Public School, Secunderabad
 - Audio Editor: Kaviranjana Antony 
