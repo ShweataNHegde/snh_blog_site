@@ -4,7 +4,7 @@ title: "Why Do We Dream?"
 img: "/assets/images/projects/iaw_s3_e1_libsyn_cover.png"
 postDate: '2023-09-19'
 linkText: "Click here to listen"
-audio: "/assets/audio/iaw_s3_trailer_2_v1.mp3"
+audio: "/assets/audio/iaw_s3_e1.mp3"
 ---
 “Why do we dream? Satakshi, Fareeha and Navika from Delhi Public School, Secunderabad ask.
 One morning when Utsuka and Jigyasa were visiting their curious friends, they were chatting about their funny dream experiences! That’s when one of them wondered why we have dreams at all.
