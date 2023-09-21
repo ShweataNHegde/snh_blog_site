@@ -6,6 +6,8 @@ postDate: '2023-09-19'
 linkText: "Click here to listen"
 audio: "/assets/audio/iaw_s3_e1.mp3"
 ---
+
+Listen on [Spotify](https://open.spotify.com/episode/0HR8v1PIEny9gofq4U2s9r).
 “Why do we dream? Satakshi, Fareeha and Navika from Delhi Public School, Secunderabad ask.
 One morning when Utsuka and Jigyasa were visiting their curious friends, they were chatting about their funny dream experiences! That’s when one of them wondered why we have dreams at all.
 
