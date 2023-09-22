@@ -17,6 +17,9 @@ We’re sure that this conversation between the curious group would have made yo
 
 The transcript to the episode can be found, [here](/blog/2023-09-19-transcript-why-do-we-dream)
 
+## Illustration
+
+<img src = "/assets/images/projects/iaw_s3_e1_poster.png" width = 100%>
 ## References
 1. Pryor, Julie. “Why Do We Dream?” MIT McGovern Institute, 1 Aug. 2022, [mcgovern.mit.edu/2022/08/01/why-do-we-dream/](mcgovern.mit.edu/2022/08/01/why-do-we-dream/).
 
