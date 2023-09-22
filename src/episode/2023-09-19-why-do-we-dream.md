@@ -11,7 +11,7 @@ Listen on [Spotify](https://open.spotify.com/episode/0HR8v1PIEny9gofq4U2s9r).
 “Why do we dream? Satakshi, Fareeha and Navika from Delhi Public School, Secunderabad ask.
 One morning when Utsuka and Jigyasa were visiting their curious friends, they were chatting about their funny dream experiences! That’s when one of them wondered why we have dreams at all.
 
-In the first episode of the brand new season of IndiaAsksWhy, we take a deep dive into the functioning of human brains. We learn about the different ideas behind dreams and what might be causing them. They also spoke to the sleep scientist, [Dr Nitin Chouhan](tifr.res.in/~dbs/faculty/N_Chouhan.html), from TIFR Mumbai, to understand how one could possibly study sleep and dreams in a lab!
+In the first episode of the brand new season of IndiaAsksWhy, we take a deep dive into the functioning of human brains. We learn about the different ideas behind dreams and what might be causing them. They also spoke to the sleep scientist, [Dr Nitin Chouhan](https://www.tifr.res.in/~dbs/faculty/N_Chouhan.html), from TIFR Mumbai, to understand how one could possibly study sleep and dreams in a lab!
 
 We’re sure that this conversation between the curious group would have made you curious too. You can send your follow up questions on our [website]( https://www.indiaaskswhy.org/contact/), and we’ll pick them up :)
 
