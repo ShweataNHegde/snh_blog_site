@@ -2,7 +2,7 @@
 title: "Why Do We Dream? Science Blog"
 des: " The large hall is fully packed and well-lit! You find yourself on the centre stage, receiving the citation and medal for the coveted Nobel prize in your domain :) The crowd cheers, camera lights flash in succession, and you are on cloud nine! But suddenly, you are cut short by a familiar voice… It’s your mother waking you up for the day. And you realize that you were dreaming of being a Nobel laureate! But now you start wondering why we dream at all. You will get your answer in this podcast of IndiaAsksWhy where three of our curious listeners - Navika, Fareeha, and Satakshi embark on this journey to learn about dreams with Utsuka and Jigyasa. "
 postDate: "2023-07-18"
-img: "/assets/images/blog/iaw_s1_e5_blog_cover.jpg"
+img: "/assets/images/blog/iaw_s3_e1_blog_cover.jpg"
 featureImg: "/assets/images/iaw_characters.jpeg"
 author: "Shakunthala Natarajan"
 tags: ["blogpost"]
