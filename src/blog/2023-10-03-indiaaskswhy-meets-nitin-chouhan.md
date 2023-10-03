@@ -1,0 +1,28 @@
+---
+title: "IndiaAsksWhy Meets Dr Nitin Chouhan"
+des: " In this episode of IndiaAsksWhy, three curious young listeners, Fareeha, Navika and Shatakshi, join Utsuka and Jigyasa as they embark on a journey into the world of dreams. They are joined on this journey by Dr. Nitin Singh Chouhan, a sleep scientist at the Tata Institute of Fundamental Research (TIFR), Mumbai. "
+postDate: "2023-10-03"
+img: "/assets/images/blog/nitin_chouhan.png"
+featureImg: "/assets/images/iaw_characters.jpeg"
+author: "Bakul Piplani"
+tags: ["blogpost"]
+---
+Have you ever woken up to a strange feeling as if you just jumped out of a movie? Do you vividly remember the stories made up by your brain while you were fast asleep? Well, these stories are nothing but dreams! While you sleep, your brain stays awake and concocts some of the most bizarre movies in the form of dreams. Have you ever wondered why we sleep, why we dream, and how the amount and quality of sleep affects our dreams? In this episode of IndiaAsksWhy, three curious young listeners, Fareeha, Navika and Shatakshi, join Utsuka and Jigyasa as they embark on a journey into the world of dreams and uncover the answers to these questions and many more! They are joined on this journey by Dr. Nitin Singh Chouhan, a sleep scientist at the Tata Institute of Fundamental Research (TIFR), Mumbai.
+
+Dr. Nitin Singh Chouhan and his newly built team of young scientists work with fruit flies a.k.a. Drosophila to study sleep behaviour and how the amount and quality of sleep affects the activities of the brain and body. Why fruit flies, you ask? That’s because fruit flies are incredibly simple organisms and fairly easy to study! Shatakshi wanted to know how scientists like Dr. Chouhan “study fruit flies when they are so small?” Navika, on the other hand, was curious about how a fly lab looks like! Well, Dr. Chouhan explains that they grow these tiny organisms in bottles containing fly food, and anesthetise them before transferring to experimental working stations like the sophisticated imaging microscopes used to study the activity of fly brain cells. Isn’t it intriguing?
+
+Did we tell you that Dr. Chouhan did not originally plan on becoming a scientist? He dodged the conventional career paths of medicine and engineering and eventually ended up as a researcher. Curious to know how Dr. Chouhan got interested in studying sleep? So, Dr. Chouhan was interested in studying animal behaviour and how it is impacted by day-to-day experiences. He began by studying aggression in fruit flies and gradually expanded his research portfolio to include different kinds of behavioural aspects, including sleep. After completing his PhD in Germany and post-doc (position available to people who have earned a doctorate) in the US, Dr. Chouhan moved back to India in 2022, to start his own research lab at TIFR.
+
+Do you want to know what all goes into building a new research lab? To answer your query, Utsuka and Jigyasa chat with Dr. Chouhan about how his typical working day looks like. Dr. Chouhan explains that, as the head of a new lab, his first and foremost responsibility is to guide and train his research students and post-docs, to make them adept at handling flies, running experiments, and reading writing and understanding the research. Since he is freshly out of a post-doc, and has relatively fewer responsibilities than a much senior scientist, Dr. Chouhan still finds time to run his own experiments alongside his team in the lab. He also spends a considerable amount of time in activities critical to building the lab’s strength and capabilities.
+
+Dr. Chouhan has special words of advice and inspiration for our young listeners. He urges budding scientists to keep an open mind and follow latest scientific developments. He highlights the importance of reading science articles and columns in newspapers and magazines, and watching science documentaries to stay in touch with the progress in scientific research. He also emphasizes that for science to progress, the onus is on young scientists to ask curiosity-driven questions like the ones we’re asking in this episode, ‘why do we sleep?’ and ‘why do we dream?’!
+
+So, stay curious, keep reading and keep listening to Utsuka and Jigyasa as they delve into the world of dreams with Dr. Nitin Singh Chouhan and chat about his newly established research lab and his exciting work on fruit fly behaviour! Leave your messages and questions on our website, and we’ll be happy to take them up! :)
+
+## References:
+1. Eric Suni and Dr. Alex Dimitriu. (2023) Dreams. Available at [https://www.sleepfoundation.org/dreams#why-do-we-dream--2](https://www.sleepfoundation.org/dreams#why-do-we-dream--2)
+1. Steven Strogatz. (2022) Why and How Do We Dream? Quanta Magazine. Available at [https://www.quantamagazine.org/why-and-how-do-we-dream-20220824/](https://www.quantamagazine.org/why-and-how-do-we-dream-20220824/)
+1. Why Do We Dream? (2022) The Cleveland Clinic. Available at [https://health.clevelandclinic.org/why-do-we-dream/](https://health.clevelandclinic.org/why-do-we-dream/)
+1. Shakunthala Natarajan. (2023) Why Do We Dream? IndiaAsksWhy. Available at [https://www.indiaaskswhy.org/blog/2023-09-26-why-do-we-dream/](https://www.indiaaskswhy.org/blog/2023-09-26-why-do-we-dream/)
+1. Nitin Singh Chouhan. Department of Biological Sciences, Tata Institute of Fundamental Research (TIFR), Mumbai. Available at [https://www.tifr.res.in/~dbs/faculty/N_Chouhan.html](https://www.tifr.res.in/~dbs/faculty/N_Chouhan.html)
+1. Chouhan Lab | Neurogenetics of behavior, Department of Biological Sciences, Tata Institute of Fundamental Research (TIFR), Mumbai. Available at [https://www.chouhanlab.com/](https://www.chouhanlab.com/)
