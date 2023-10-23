@@ -17,6 +17,11 @@ We’re sure this conversation between the curious group would have made you cur
 
 Please write to indiaaskswhy@gmail.com if you'd like your school to be involved with IndiaAsksWhy.
 
+## Illustration
+
+<img src = "/assets/images/projects/iaw_s3_e2_poster.png" width = 100%>
+Poster by Mrunal Kulkarni
+
 ## References
 1. [https://www.independent.co.uk/life-style/babies-move-womb-why-bones-joints-development-scientists-discovery-pregnancy-a8263351.html](https://www.independent.co.uk/life-style/babies-move-womb-why-bones-joints-development-scientists-discovery-pregnancy-a8263351.html)
 
