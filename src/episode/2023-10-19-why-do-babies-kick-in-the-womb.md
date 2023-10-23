@@ -1,6 +1,6 @@
 ---
 subTitle: "S3 " 
-title: "Why Do Babies Kick in the Womb"
+title: "Why Do Babies Kick in the Womb?"
 img: "/assets/images/projects/iaw_s3_e2_libsyn_cover.png"
 postDate: '2023-10-19'
 linkText: "Click here to listen"
