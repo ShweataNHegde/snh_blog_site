@@ -13,3 +13,11 @@ In the third episode of season 03 of IndiaAsksWhy, we look at what causes paraly
 We’re sure this conversation between the curious group would have made you curious, too. You can send your follow-up questions on our website, and we’ll pick them up :)
 
 Please write to indiaaskswhy@gmail.com if you'd like your school to be involved with IndiaAsksWhy.
+
+
+## Credits
+Hosts: Shweata N. Hegde and Ruchi Manglunia
+Guest scientist: Prof. Amitabha Bandyopadhyay
+Students: Karthik and Shree from Delhi Public School, Secunderabad
+Audio Editor: Indulekha MS
+Transcriber: Khushi Goel
