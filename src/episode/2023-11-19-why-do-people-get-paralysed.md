@@ -16,8 +16,8 @@ Please write to indiaaskswhy@gmail.com if you'd like your school to be involved 
 
 
 ## Credits
-Hosts: Shweata N. Hegde and Ruchi Manglunia
-Guest scientist: Prof. Amitabha Bandyopadhyay
-Students: Karthik and Shree from Delhi Public School, Secunderabad
-Audio Editor: Indulekha MS
-Transcriber: Khushi Goel
+- Hosts: Shweata N. Hegde and Ruchi Manglunia
+- Guest scientist: Prof. Amitabha Bandyopadhyay
+- Students: Karthik and Shree from Delhi Public School, Secunderabad
+- Audio Editor: Indulekha MS
+- Transcriber: Khushi Goel
