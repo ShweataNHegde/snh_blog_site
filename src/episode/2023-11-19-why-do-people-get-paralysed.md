@@ -2,7 +2,7 @@
 subTitle: "S3 " 
 title: "Why Do People Get Paralysed?"
 img: "/assets/images/projects/iaw_s3_e3_libsyn_cover.png"
-postDate: '2023-10-19'
+postDate: '2023-11-19'
 linkText: "Click here to listen"
 audio: "/assets/audio/iaw_s3_e3.mp3"
 ---
