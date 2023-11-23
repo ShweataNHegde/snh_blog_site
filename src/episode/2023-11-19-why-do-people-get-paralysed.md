@@ -14,6 +14,19 @@ We’re sure this conversation between the curious group would have made you cur
 
 Please write to indiaaskswhy@gmail.com if you'd like your school to be involved with IndiaAsksWhy.
 
+## Illustration
+
+<img src = "/assets/images/projects/iaw_s3_e3_poster.PNG" width = 100%>
+
+## References 
+- [https://www.britannica.com/science/paralysis](https://www.britannica.com/science/paralysis)
+
+- [https://www.nhs.uk/conditions/paralysis/](https://www.nhs.uk/conditions/paralysis/)
+
+- [https://www.christopherreeve.org/living-with-paralysis/health/causes-of-paralysis
+https://kids.frontiersin.org/articles/10.3389/frym.2022.812576](https://www.christopherreeve.org/living-with-paralysis/health/causes-of-paralysis
+https://kids.frontiersin.org/articles/10.3389/frym.2022.812576)
+
 
 ## Credits
 - Hosts: Shweata N. Hegde and Ruchi Manglunia
@@ -21,3 +34,4 @@ Please write to indiaaskswhy@gmail.com if you'd like your school to be involved 
 - Students: Myra and Kanishka from Delhi Public School, Secunderabad
 - Audio Editor: Indulekha MS
 - Transcriber: Khushi Goel
+- Poster credits: Mrunal Kulkarni
