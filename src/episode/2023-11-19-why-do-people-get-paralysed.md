@@ -22,10 +22,8 @@ Please write to indiaaskswhy@gmail.com if you'd like your school to be involved 
 - [https://www.britannica.com/science/paralysis](https://www.britannica.com/science/paralysis)
 
 - [https://www.nhs.uk/conditions/paralysis/](https://www.nhs.uk/conditions/paralysis/)
-
-- [https://www.christopherreeve.org/living-with-paralysis/health/causes-of-paralysis
-https://kids.frontiersin.org/articles/10.3389/frym.2022.812576](https://www.christopherreeve.org/living-with-paralysis/health/causes-of-paralysis
-https://kids.frontiersin.org/articles/10.3389/frym.2022.812576)
+- [https://www.christopherreeve.org/living-with-paralysis/health/causes-of-paralysis](https://www.christopherreeve.org/living-with-paralysis/health/causes-of-paralysis)
+- [https://kids.frontiersin.org/articles/10.3389/frym.2022.812576](https://kids.frontiersin.org/articles/10.3389/frym.2022.812576)
 
 
 ## Credits
