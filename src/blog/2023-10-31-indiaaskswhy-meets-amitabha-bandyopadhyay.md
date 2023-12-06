@@ -23,11 +23,9 @@ Finally, since Prof. Bandyopadhyay is from IIT Kanpur, like many of you Karthik 
 So, stay curious and listen to Utsuka and Jigyasa as they chat with Prof. Amitabha Bandyopadhyay about his research on the skeletal system and his mission to develop an effective treatment for arthritis! Leave your messages and questions on our website, and we’ll be happy to take them up! :)
 
 ## References
-
-References:
 1. Adriana Diaz. (2022) Mystery of why babies kick in the womb solved after centuries: discovery. New York Post. Available at
 [https://nypost.com/2022/12/27/mystery-of-why-babies-kick-in-the-womb-solved-after-centuries-scientists/](https://nypost.com/2022/12/27/mystery-of-why-babies-kick-in-the-womb-solved-after-centuries-scientists/)
-2. Kevin Beck. (2018) How Many Bones Are in a Body? Sciencing. Available at [https://sciencing.com/many-bones-body-5438174.html](https://sciencing.com/many-bones-body-5438174.html)
-3. Human Skeletal System. Mammal Anatomy: An Illustrated Guide. (2010) New York: Marshall Cavendish. pp. 129-132
-4. Amitabha Bandyopadhyay. Department of Biological Sciences & Bioengineering (BSBE), IIT Kanpur. Available at [https://www.iitk.ac.in/bsbe/amitabha-bandyopadhyay](https://www.iitk.ac.in/bsbe/amitabha-bandyopadhyay)
-5. Bandyopadhayay Lab | Skeletal developmental lab, Department of Biological Sciences and Bioengineering, Indian Institute of Technology Kanpur. Available at[ https://sites.google.com/view/ablab-iitk/home](https://sites.google.com/view/ablab-iitk/home)
+1. Kevin Beck. (2018) How Many Bones Are in a Body? Sciencing. Available at [https://sciencing.com/many-bones-body-5438174.html](https://sciencing.com/many-bones-body-5438174.html)
+2. Human Skeletal System. Mammal Anatomy: An Illustrated Guide. (2010) New York: Marshall Cavendish. pp. 129-132
+3. Amitabha Bandyopadhyay. Department of Biological Sciences & Bioengineering (BSBE), IIT Kanpur. Available at [https://www.iitk.ac.in/bsbe/amitabha-bandyopadhyay](https://www.iitk.ac.in/bsbe/amitabha-bandyopadhyay)
+4. Bandyopadhayay Lab | Skeletal developmental lab, Department of Biological Sciences and Bioengineering, Indian Institute of Technology Kanpur. Available at[ https://sites.google.com/view/ablab-iitk/home](https://sites.google.com/view/ablab-iitk/home)
