@@ -22,4 +22,7 @@ Finally, Dr. Vasu has a special message for our young audience! She believes tha
 So, stay curious and listen to Utsuka and Jigyasa as they chat with Dr. Sheeba Vasu about her research on the neuronal circuits in Drosophila and her journey through the realms of neuroscience! Leave your messages and questions on our website, and we’ll be happy to take them up! :)
 
 
-
+## References
+1. Paralysis. (2023) NHS UK. Available at[https://www.nhs.uk/conditions/paralysis/](https://www.nhs.uk/conditions/paralysis/)
+2. Neuromuscular Junction. (2022) The Human Memory. Available at [https://human-memory.net/neuromuscular-junction/](https://human-memory.net/neuromuscular-junction/)
+3. Prof. Sheeba Vasu. Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR). Available at [https://www.jncasr.ac.in/faculty/sheeba](https://www.jncasr.ac.in/faculty/sheeba)
