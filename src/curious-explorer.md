@@ -5,6 +5,6 @@ des: Many of you have posed us so many curious questions! In our Curious Explore
 pagination:
   data: collections.question
   size: 10
-  alias: questions
+  alias: curious-explorer
   reverse: true
 ---

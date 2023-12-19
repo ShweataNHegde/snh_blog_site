@@ -15,10 +15,9 @@ We’re sure this conversation between the curious group would have made you cur
 Please write to indiaaskswhy@gmail.com if you'd like your school to be involved with IndiaAsksWhy.
 
 ## References
-1. “30.12: Plant Development - Genetic Control of Flowers.” Biology LibreTexts, 16 July 2018, bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(Boundless)/30%3A_Plant_Form_and_Physiology/30.12%3A_Plant_Development_-_Genetic_Control_of_Flowers.BioNinja.
-2. “Photoperiodism | BioNinja.” Ib.bioninja.com.au, ib.bioninja.com.au/higher-level/topic-9-plant-biology/untitled-3/photoperiodism.html.
-3. “How Do Plants Know When to Flower? | Wonderopolis.” Wonderopolis.org, wonderopolis.org/wonder/how-do-plants-know-when-to-flower.Kirchoff, Bruce K., and Riva A. Bruenn. 
-4. “How Do Banana Flowers Develop?” Frontiers for Young Minds, vol. 6, 20 Nov. 2018, https://doi.org/10.3389/frym.2018.00060.
+1. “[30.12: Plant Development - Genetic Control of Flowers.](bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(Boundless)/30%3A_Plant_Form_and_Physiology/30)” Biology LibreTexts, 16 July 2018, .12%3A_Plant_Development_-_Genetic_Control_of_Flowers.BioNinja.
+2. “How Do Plants Know When to Flower? | Wonderopolis.” Wonderopolis.org, [wonderopolis.org/wonder/how-do-plants-know-when-to-flower](wonderopolis.org/wonder/how-do-plants-know-when-to-flower).Kirchoff, Bruce K., and Riva A. Bruenn. 
+3. “How Do Banana Flowers Develop?” Frontiers for Young Minds, vol. 6, 20 Nov. 2018, [https://doi.org/10.3389/frym.2018.00060](https://doi.org/10.3389/frym.2018.00060).
 
 ## Credits
 

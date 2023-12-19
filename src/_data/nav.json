@@ -1,6 +1,6 @@
 {
   "navLogo":"/assets/images/iaw_logo_resized.png",
-  "navLinks":["home","about","episodes","blog", "Question"],
+  "navLinks":["home","about","episodes","blog", "curious-explorer"],
   "navBtnLink":"contact",
   "navBtnText":" Submit Question"
 }
