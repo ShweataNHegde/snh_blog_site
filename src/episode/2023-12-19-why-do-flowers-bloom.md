@@ -19,3 +19,12 @@ Please write to indiaaskswhy@gmail.com if you'd like your school to be involved 
 2. “Photoperiodism | BioNinja.” Ib.bioninja.com.au, ib.bioninja.com.au/higher-level/topic-9-plant-biology/untitled-3/photoperiodism.html.
 3. “How Do Plants Know When to Flower? | Wonderopolis.” Wonderopolis.org, wonderopolis.org/wonder/how-do-plants-know-when-to-flower.Kirchoff, Bruce K., and Riva A. Bruenn. 
 4. “How Do Banana Flowers Develop?” Frontiers for Young Minds, vol. 6, 20 Nov. 2018, https://doi.org/10.3389/frym.2018.00060.
+
+## Credits
+
+- Hosts: Shweata N. Hegde and Ruchi Manglunia
+- Guest scientist: Prof. Mukesh Lodha
+- Students: Anushka and Hamsini from Delhi Public School, Secunderabad
+- Audio Editor: Shweata N. Hegde
+- Episode cover: Asif Khan
+- Transcriber: Khushi Goel
