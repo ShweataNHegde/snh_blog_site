@@ -14,6 +14,10 @@ We’re sure this conversation between the curious group would have made you cur
 
 Please write to indiaaskswhy@gmail.com if you'd like your school to be involved with IndiaAsksWhy.
 
+## Illustration
+
+<img src = "/assets/images/projects/iaw_s3_e4_poster.PNG" width = 100%>
+
 ## References
 1. “30.12: Plant Development - Genetic Control of Flowers.” Biology LibreTexts, 16 July 2018, bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(Boundless)/30%3A_Plant_Form_and_Physiology/30.12%3A_Plant_Development_-_Genetic_Control_of_Flowers.BioNinja.
 2. “Photoperiodism | BioNinja.” Ib.bioninja.com.au, ib.bioninja.com.au/higher-level/topic-9-plant-biology/untitled-3/photoperiodism.html.
@@ -28,3 +32,4 @@ Please write to indiaaskswhy@gmail.com if you'd like your school to be involved 
 - Audio Editor: Shweata N. Hegde
 - Episode cover: Asif Khan
 - Transcriber: Khushi Goel
+- Poster: Mrunal Kulkarni
