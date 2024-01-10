@@ -9,14 +9,12 @@ tags: ["blogpost"]
 ---
 Listen to the full episode, [here](https://www.indiaaskswhy.org/episode/2023-12-19-why-do-flowers-bloom/)
 
-<p style="text-align:center"> 
-_“I see trees of green_
-_Red roses too_
-_I see them bloom_
-_For me and you_
-_And I think to myself_
-_What a wonderful world”_
-</p>
+<p style="text-align:center"> “I see trees of green </p>
+<p style="text-align:center"> Red roses too </p>
+<p style="text-align:center"> I see them bloom </p>
+<p style="text-align:center"> For me and you </p>
+<p style="text-align:center"> And I think to myself </p>
+<p style="text-align:center"> What a wonderful world” </p>
 
 Who doesn’t remember these opening lines from the song ‘What a Wonderful World’! Well, isn’t it a fact that the world would be less beautiful without green plants and their colourful flowers? Did you know there are about 4,00,000 known species of flowering plants in the world? In this episode of IndiaAsksWhy, two curious young listeners, Anushka and Hamsini, join Utsuka and Jigyasa as they drift into the colourful world of flowering plants! Together they discover the answers to questions like why and how flowers bloom and where they get their beautiful colours and fragrances from! They are joined on this journey by Dr. Mukesh Lodha, a plant scientist at the Center for Cellular and Molecular Biology (CCMB), Hyderabad, who throws light on the complex process of flowering and the tiny molecules involved in it.
 
