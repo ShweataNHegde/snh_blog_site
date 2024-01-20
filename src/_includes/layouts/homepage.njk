@@ -72,7 +72,7 @@
             </div>
           </div>
           {% for episode in collections.episodes | reverse %}
-            {% if (loop.index <= 4) %}
+            {% if (loop.index <= 2) %}
           <div class="col-lg-6 col-md-10 mx-auto">
             <div class="site-project-item">
               <div class="site-project-item-thumb">
@@ -103,7 +103,7 @@
             </div>
           </div>
           {% for post in collections.blogpost | reverse %}
-            {% if (loop.index <= 4) %}
+            {% if (loop.index <= 2) %}
             <div class="col-lg-6">
               <article class="site-blog-post">
                 <div class="site-blog-post-thumb">
@@ -120,7 +120,9 @@
            </div>
           {% endif %}
           {% endfor %}
-
+         <div class="col-12 text-center text-lg-left">
+            <a href="/{{blog.seeAllbtn.link}}" class="site-project-cta">{{blog.seeAllbtn.text}}</a>
+          </div>
           </div>
         </div>
       </div>

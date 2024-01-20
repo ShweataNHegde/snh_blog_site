@@ -23,6 +23,6 @@ blog:
   subTitle: "More Curiosity Content"
   title: "Read our latest blogs!"
   seeAllbtn:
-    link: "episodes"
-    text: "All Episodes"
+    link: "blog"
+    text: "All Blogs"
 ---
