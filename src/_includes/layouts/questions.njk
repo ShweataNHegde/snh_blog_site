@@ -16,7 +16,7 @@
     <section class="site-blog">
       <div class="container">
         <div class="row">
-          {% for question in questions %}
+          {% for question in collections.curiousExplorer %}
           <div class="col-lg-6">
             <article class="site-blog-post">
               <div class="site-blog-post-content">
@@ -29,7 +29,7 @@
                 <h5>Answered by: {{question.data.author}}</h5>
               <h5>Tags:</h5>
               {% for tag in question.data.tags %}
-                {% if tag !== 'question' or '' %}
+                {% if tag !== 'curiousExplorer' or '' %}
                 <a href = "/{{tag}}">
                   <span class="button tag-button">
                   {{ tag }}
