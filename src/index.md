@@ -17,5 +17,12 @@ episode:
   title: "Listen to our latest episodes!"
   seeAllbtn:
     link: "episodes"
-    text: "Our episodes"
+    text: "All Episodes"
+
+blog:
+  subTitle: "More Curiosity Content"
+  title: "Read our latest blogs!"
+  seeAllbtn:
+    link: "episodes"
+    text: "All Episodes"
 ---
