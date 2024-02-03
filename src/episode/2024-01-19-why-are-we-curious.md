@@ -14,6 +14,10 @@ We’re sure this conversation between the curious group would have made you cur
 
 Please write to indiaaskswhy@gmail.com if you'd like your school to be involved with IndiaAsksWhy.
 
+## Illustration
+
+<img src = "/assets/images/projects/iaw_s3_e4_poster.PNG" width = 100%>
+
 ## References
 - Byrne, Richard W. “Animal Curiosity.” Current Biology, vol. 23, no. 11, June 2013, pp. R469–R470,[ https://doi.org/10.1016/j.cub.2013.02.058]( https://doi.org/10.1016/j.cub.2013.02.058). Accessed 9 Dec. 2019.
 - Kidd, Celeste, and Benjamin Y. Hayden. “The Psychology and Neuroscience of Curiosity.” Neuron, vol. 88, no. 3, Nov. 2015, pp. 449–460, [www.ncbi.nlm.nih.gov/pmc/articles/PMC4635443/](www.ncbi.nlm.nih.gov/pmc/articles/PMC4635443/), [https://doi.org/10.1016/j.neuron.2015.09.010](https://doi.org/10.1016/j.neuron.2015.09.010).
@@ -29,3 +33,4 @@ Please write to indiaaskswhy@gmail.com if you'd like your school to be involved 
 - Audio Editor: Shweata N. Hegde
 - Episode cover: Asif Khan
 - Transcriber: Khushi Goel
+- Poster: Mrunal Kulkarni
