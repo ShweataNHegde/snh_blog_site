@@ -16,7 +16,7 @@ Please write to indiaaskswhy@gmail.com if you'd like your school to be involved 
 
 ## Illustration
 
-<img src = "/assets/images/projects/iaw_s3_e4_poster.PNG" width = 100%>
+<img src = "/assets/images/projects/iaw_s3_e5_poster.PNG" width = 100%>
 
 ## References
 - Byrne, Richard W. “Animal Curiosity.” Current Biology, vol. 23, no. 11, June 2013, pp. R469–R470,[ https://doi.org/10.1016/j.cub.2013.02.058]( https://doi.org/10.1016/j.cub.2013.02.058). Accessed 9 Dec. 2019.
