@@ -1,0 +1,29 @@
+---
+title: "IndiaAsksWhy meets Dr Jaison Manjaly"
+des: ""
+postDate: "2024-02-19"
+img: "/assets/images/blog/jaison_manjaly.png"
+featureImg: "/assets/images/iaw_characters.jpeg"
+author: "Bakul Piplani"
+tags: ["blogpost"]
+---
+Have you ever wondered why we ask so many questions? What makes us curious?  How does curiosity ‘work’ in the human brain? Are other animals curious too? In the final episode of the third season of IndiaAsksWhy, two curious young listeners, Avishka and Tavi, join Utsuka and Jigyasa as they dive into the expansive realm of curiosity and discover the answers to these questions and more! They are joined on this journey by Prof. Jaison Manjaly, a curiosity researcher from the Indian Institute of Technology Gandhinagar, who explains the science behind curiosity and how it works.
+
+Prof. Jaison Manjaly leads the ‘Curiosity Lab’ at IIT Gandhinagar, where he and his team of young scientists study factors that spawn and foster curiosity. They study the relationship between curiosity and other brain functions, such as memory, and behavioral facets, such as rewards. They try to find the answers to questions like how gaps in information and knowledge trigger curiosity in humans.
+
+Curious to know how they do this in the lab? They do so by bringing people into their lab, making them do certain tasks on a computer, and observing their brain activity using tools like the ElectroEncephaloGram (EEG). Hang on! Before you leave our website to Google the term, let us explain what an EEG means. Have you ever seen an ElectroCardioGram (ECG)? The one with waves and spikes marked in black on a red graph paper? Did you know that those waves and spikes represent heart activity and can help doctors see if the parts of your heart are firing up normally? EEG is just like an ECG of the brain with the spikes and waves representing brain activity. So, an EEG can help scientists identify which part of the brain fires up more when we do a certain activity or task. Prof. Manjaly talks about another tool called Transcranial Magnetic Stimulation (TMS), which allows scientists to use magnetic fields to influence brain activity in people and then study changes in their behavior and activities. Scientists like Prof. Manjaly can then decode all of this information to find the answers to their research questions like ‘What triggers curiosity?’. Fascinating, isn’t it?
+
+Did we tell you that Prof. Manjaly has a PhD in philosophy from IIT Kharagpur? He teaches concepts of philosophy to both undergraduate and postgraduate students. Are you curious to know what motivated him to dig into the origins of curiosity? Prof. Manjaly reveals that he had always aspired to bring about large-scale social changes through his research and understanding of small-scale human behaviors and interactions. A discussion on ‘Curiosity’ with one of his friends, who was very passionate about the topic, nudged Prof. Manjaly to begin research in this domain. He strongly believes that curiosity can serve as a powerful tool to improve the Indian educational framework. With this goal in mind, he started the Curiosity Lab at IIT Gandhinagar to unearth the answers to the ‘Whys’, ‘Whats’, and ‘Hows’ of curiosity!
+
+On that note, let us divulge Prof. Manjaly’s special message for our curious listeners. He advises young students like yourselves not to worry about following a defined career path, but instead learn through exploration. He emphasizes the importance of an open mind, critical thinking skills, and curiosity in the process of learning as he urges budding scientists to ask as many questions as humanly possible and learn to carefully articulate the questions as they go.
+
+That brings us to the end of this blog, and to the end of Season 3 of IndiaAsksWhy! Before we leave you to explore your curious thoughts, we would like to re-emphasize Prof. Manjaly’s words on the importance of curiosity-driven learning. As Albert Einstein once said, “The important thing is not to stop questioning. Curiosity has its own reason for existing.”. So, until we meet again with another podcast and another blog, stay curious and listen to Utsuka and Jigyasa as they, along with Avishka and Tavi, chat with Prof. Jaison Mangly about his research journey through the fascinating domain of curiosity! Leave your messages and questions on our website, and we’ll be happy to take them up! :)
+
+## References:
+1. Marianne Stenger. (2014) Why Curiosity Enhances Learning. Edutopia. Available at [https://www.edutopia.org/blog/why-curiosity-enhances-learning-marianne-stenger](https://www.edutopia.org/blog/why-curiosity-enhances-learning-marianne-stenger)
+1. Britannica’s Curiosity Compass: The Science of Curiosity. Available at[ https://curiosity.britannica.com/science-of-curiosity.html]( https://curiosity.britannica.com/science-of-curiosity.html)
+1. Britannica’s Curiosity Compass: 10 Ways to Improve Your Curiosity. Available at [https://curiosity.britannica.com/10-ways-to-improve-your-curiosity](https://curiosity.britannica.com/10-ways-to-improve-your-curiosit)
+1. Neirotti R. A. (2021). The importance of asking questions and doing things for a reason. Brazilian journal of cardiovascular surgery, 36(1), I–II. [https://doi.org/10.21470/1678-9741-2021-0950](https://doi.org/10.21470/1678-9741-2021-0950)
+2. Shakunthala Natarajan. (2024) Why do we ask so many questions? IndiaAsksWhy. Available at [https://www.indiaaskswhy.org/blog/2024-02-07-why-are-we-curious/](https://www.indiaaskswhy.org/blog/2024-02-07-why-are-we-curious/)
+3. Curiosity Lab | IIT Gandhinagar. Available at [https://www.curiositylab.iitgn.ac.in/](https://www.curiositylab.iitgn.ac.in/)
+Jaison Manjaly | Department of Cognitive and Brain Sciences | IIT Gandhinagar. Available at [https://cogs.iitgn.ac.in/team/jaison-manjaly/](https://cogs.iitgn.ac.in/team/jaison-manjaly/)
