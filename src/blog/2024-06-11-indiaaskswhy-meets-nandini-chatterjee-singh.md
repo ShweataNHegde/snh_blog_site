@@ -1,6 +1,6 @@
 ---
 title: "IndiaAsksWhy meets Dr. Nandini Chatterjee Singh"
-des: "Utsuska and Jigyasa speak with Dr. Nandini Chatterjee Singh, a neuroscientist at the UNESCO Mahatma Gandhi Institute of Education for Peace and Sustainable Development (MGIEP), India, about how eating chocolate elevates our mood."
+des: "Utsuska and Jigyasa speak with Dr. Nandini Chatterjee Singh, a neuroscientist at the UNESCO Mahatma Gandhi Institute of Education for Peace and Sustainable Development (MGIEP), India, about how eating chocolate elevates our mood. P.S. You'll also learn a bit about MRI machines and Dr Singh's career."
 postDate: "2024-06-11"
 img: "/assets/images/blog/nandini_singh_chatterjee.png"
 featureImg: "/assets/images/iaw_characters.jpeg"
