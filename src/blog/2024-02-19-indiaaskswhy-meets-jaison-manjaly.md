@@ -1,6 +1,6 @@
 ---
 title: "IndiaAsksWhy meets Dr Jaison Manjaly"
-des: ""
+des: "Have you ever wondered why we ask so many questions? What makes us curious?  How does curiosity ‘work’ in the human brain? Are other animals curious too? In the final episode of the third season of IndiaAsksWhy, two curious young listeners, Avishka and Tavi, join Utsuka and Jigyasa as they dive into the expansive realm of curiosity and discover the answers to these questions and more! They are joined on this journey by Prof. Jaison Manjaly, a curiosity researcher from the Indian Institute of Technology Gandhinagar, who explains the science behind curiosity and how it works."
 postDate: "2024-02-19"
 img: "/assets/images/blog/jaison_manjaly.png"
 featureImg: "/assets/images/iaw_characters.jpeg"

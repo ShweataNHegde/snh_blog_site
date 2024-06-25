@@ -1,0 +1,33 @@
+---
+title: "IndiaAsksWhy meets Dr. Nandini Chatterjee Singh"
+des: "Utsuska and Jigyasa speak with Dr. Nandini Chatterjee Singh, a neuroscientist at the UNESCO Mahatma Gandhi Institute of Education for Peace and Sustainable Development (MGIEP), India, about how eating chocolate elevates our mood."
+postDate: "2024-06-11"
+img: "/assets/images/blog/nandini_singh_chatterjee.png"
+featureImg: "/assets/images/iaw_characters.jpeg"
+author: "Bakul Piplani"
+tags: ["blogpost"]
+---
+Imagine you are upset after a bad day at school. To cheer you up, your friend gives you a bar of chocolate. One bite and you immediately feel warm and happy as the chocolate melts in your mouth! Sounds familiar, right? Did you know that chocolate contains small amounts of feel-good chemicals that set off happiness reactions in our brains? In this episode of IndiaAsksWhy, Utsuka and Jigyasa unwrap the secret behind why we like chocolates so much.
+
+Utsuska and Jigyasa speak with Dr. Nandini Chatterjee Singh, a neuroscientist at the UNESCO Mahatma Gandhi Institute of Education for Peace and Sustainable Development (MGIEP), India, about how eating chocolate elevates our mood. Dr. Singh explains that eating chocolate increases the levels of the feel-good hormone, dopamine, in our brains making us feel happy. She adds that chocolate also contains small amounts of chemicals like caffeine, theobromine and Anandamide (a ‘neurotransmitter’) that stimulate our brains and make us feel energetic. Isn’t it incredible what a tiny piece of chocolate can do?
+
+Curious to know how all these effects of eating chocolate were discovered? Brain scientists used tools like functional MRI (fMRI) scanners to photograph the human brain and study the activities that happen inside it when we eat chocolate. Did we tell you that Dr. Singh was the first scientist in India to study the effects of language, literacy and music on the human brain using fMRI scans? Her research lab at the National Brain Research Center (NBRC), India used fMRI to study the changes that happen in our brains during activities like reading and writing, listening to music and playing games. She then used the knowledge gained from her research to design special learning methods for school students like yourself, and develop tools to screen and assess for learning disorders like dyslexia. Now at UNESCO MGIEP, she uses her knowledge of neuroscience to develop curricula and teaching methods for learning social and emotional life skills, especially for students with learning difficulties. Dr. Singh’s long-term goal is to bring scientific knowledge from the “bench to the bedside” and use their understanding of the human brain to improve classroom education and learning, promote holistic development and cultivate emotional resilience.
+
+Did you know that Dr. Singh initially studied theoretical physics? Curious to know what made her switch to studying the biology of the human brain? After her research training in physics, Dr. Singh started to look for applications of her research work in biological systems. Her first stint in a biology research lab involved studies where she used the principles of physics and mathematics to study the signals generated from a type of brain cells called ‘neurons’, in response to audio-visual stimuli. She then went on to study how birds called ‘zebra finches’ learn to sing, and later applied the findings from her research on bird brains to help understand learning processes in the human brain. This made her fall in love with neuroscience, eventually taking her to NBRC where she set up her lab to study human brains using fMRI. Her education and training in physics helped her make the best of fMRI, that works on the principles of physics, to study the activities of the human brain and understand the biology behind them.
+
+I’m sure you must be feeling inspired by Dr. Singh’s unconventional journey as a scientist! So, Utsuka and Jigyasa asked her to leave a message for our listeners. Dr. Singh encourages budding scientists to be curious, look at the wonderful world from their own fresh perspective, and keep learning. She emphasizes that in order to build a scientific understanding of the world, it is important for us to observe, think about and question the happenings around us. So, whenever you find something interesting, don’t forget to ask the three magical questions - what, why and how!
+
+That’s all for now. So, keep learning, stay curious and listen to Utsuka and Jigyasa as they chat with Dr. Nandini Chatterjee Singh about the neuroscience behind the happy feelings brought on by eating chocolate, and about her exciting journey as a physicist-turned-neuroscientist!
+ 
+## References:
+Woodford, Chris. (2008/2023) The science of chocolate. ExplainThatStuff. Retrieved from [https://www.explainthatstuff.com/scienceofchocolate.html](https://www.explainthatstuff.com/scienceofchocolate.html)
+Mosley, Michael. (2017) The secret of why we like to eat chocolate. BBC News: Health. Retrieved from [https://www.bbc.com/news/health-39067088](https://www.bbc.com/news/health-39067088)
+Jordan, Sarah (2017) Why does chocolate make us happy? BBC Science Focus. Retrieved from [https://www.sciencefocus.com/the-human-body/why-does-chocolate-make-us-happy/](https://www.sciencefocus.com/the-human-body/why-does-chocolate-make-us-happy/)
+[https://www.indiaaskswhy.org/blog/2024-06-10-why-do-we-like-chocolates/](https://www.indiaaskswhy.org/blog/2024-06-10-why-do-we-like-chocolates/)
+Dogra, Aashima. (2017) From Abstract Equations to the Human Brain with Nandini. The Life of Science. Retrieved from [https://thelifeofscience.com/2017/09/13/absract-equations-human-brain-nandini/](https://thelifeofscience.com/2017/09/13/absract-equations-human-brain-nandini/)
+Dogra, Aashima. (2017) Talking, Reading, Listening and Singing to Understand the Human Brain. The Wire. Retrieved from [https://thewire.in/gender/human-brain-fmri-autism-dyslexia](https://thewire.in/gender/human-brain-fmri-autism-dyslexia)
+NBRC | Dr. Nandini Chatterjee Singh. Retrieved from [http://www.nbrc.ac.in/newweb/wp-content/uploads/2021/01/CV-NSC.pdf](http://www.nbrc.ac.in/newweb/wp-content/uploads/2021/01/CV-NSC.pdf)
+UNESCO MGIEP | Team | Dr. Nandini Chatterjee Singh. Retrieved from [https://mgiep.unesco.org/team](https://mgiep.unesco.org/team)
+Language, Literacy and Music Lab, NBRC. [https://nandinisingh.wixsite.com/labweb](https://nandinisingh.wixsite.com/labweb)
+Theunissen FE, David SV, Singh NC, Hsu A, Vinje WE, Gallant JL. Estimating spatio-temporal receptive fields of auditory and visual neurons from their responses to natural stimuli. Network. 2001;12(3):289-316. Retrieved from [https://doi.org/10.1080/net.12.3.289.316](https://doi.org/10.1080/net.12.3.289.316)
+
