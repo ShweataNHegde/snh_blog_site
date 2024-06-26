@@ -20,14 +20,14 @@ I’m sure you must be feeling inspired by Dr. Singh’s unconventional journey 
 That’s all for now. So, keep learning, stay curious and listen to Utsuka and Jigyasa as they chat with Dr. Nandini Chatterjee Singh about the neuroscience behind the happy feelings brought on by eating chocolate, and about her exciting journey as a physicist-turned-neuroscientist!
  
 ## References:
-Woodford, Chris. (2008/2023) The science of chocolate. ExplainThatStuff. Retrieved from [https://www.explainthatstuff.com/scienceofchocolate.html](https://www.explainthatstuff.com/scienceofchocolate.html)
-Mosley, Michael. (2017) The secret of why we like to eat chocolate. BBC News: Health. Retrieved from [https://www.bbc.com/news/health-39067088](https://www.bbc.com/news/health-39067088)
-Jordan, Sarah (2017) Why does chocolate make us happy? BBC Science Focus. Retrieved from [https://www.sciencefocus.com/the-human-body/why-does-chocolate-make-us-happy/](https://www.sciencefocus.com/the-human-body/why-does-chocolate-make-us-happy/)
-[https://www.indiaaskswhy.org/blog/2024-06-10-why-do-we-like-chocolates/](https://www.indiaaskswhy.org/blog/2024-06-10-why-do-we-like-chocolates/)
-Dogra, Aashima. (2017) From Abstract Equations to the Human Brain with Nandini. The Life of Science. Retrieved from [https://thelifeofscience.com/2017/09/13/absract-equations-human-brain-nandini/](https://thelifeofscience.com/2017/09/13/absract-equations-human-brain-nandini/)
-Dogra, Aashima. (2017) Talking, Reading, Listening and Singing to Understand the Human Brain. The Wire. Retrieved from [https://thewire.in/gender/human-brain-fmri-autism-dyslexia](https://thewire.in/gender/human-brain-fmri-autism-dyslexia)
-NBRC | Dr. Nandini Chatterjee Singh. Retrieved from [http://www.nbrc.ac.in/newweb/wp-content/uploads/2021/01/CV-NSC.pdf](http://www.nbrc.ac.in/newweb/wp-content/uploads/2021/01/CV-NSC.pdf)
-UNESCO MGIEP | Team | Dr. Nandini Chatterjee Singh. Retrieved from [https://mgiep.unesco.org/team](https://mgiep.unesco.org/team)
-Language, Literacy and Music Lab, NBRC. [https://nandinisingh.wixsite.com/labweb](https://nandinisingh.wixsite.com/labweb)
-Theunissen FE, David SV, Singh NC, Hsu A, Vinje WE, Gallant JL. Estimating spatio-temporal receptive fields of auditory and visual neurons from their responses to natural stimuli. Network. 2001;12(3):289-316. Retrieved from [https://doi.org/10.1080/net.12.3.289.316](https://doi.org/10.1080/net.12.3.289.316)
+1. Woodford, Chris. (2008/2023) The science of chocolate. ExplainThatStuff. Retrieved from [https://www.explainthatstuff.com/scienceofchocolate.html](https://www.explainthatstuff.com/scienceofchocolate.html)
+1. Mosley, Michael. (2017) The secret of why we like to eat chocolate. BBC News: Health. Retrieved from [https://www.bbc.com/news/health-39067088](https://www.bbc.com/news/health-39067088)
+1. Jordan, Sarah (2017) Why does chocolate make us happy? BBC Science Focus. Retrieved from [https://www.sciencefocus.com/the-human-body/why-does-chocolate-make-us-happy/](https://www.sciencefocus.com/the-human-body/why-does-chocolate-make-us-happy/)
+1. [https://www.indiaaskswhy.org/blog/2024-06-10-why-do-we-like-chocolates/](https://www.indiaaskswhy.org/blog/2024-06-10-why-do-we-like-chocolates/)
+1. Dogra, Aashima. (2017) From Abstract Equations to the Human Brain with Nandini. The Life of Science. Retrieved from [https://thelifeofscience.com/2017/09/13/absract-equations-human-brain-nandini/](https://thelifeofscience.com/2017/09/13/absract-equations-human-brain-nandini/)
+1. Dogra, Aashima. (2017) Talking, Reading, Listening and Singing to Understand the Human Brain. The Wire. Retrieved from [https://thewire.in/gender/human-brain-fmri-autism-dyslexia](https://thewire.in/gender/human-brain-fmri-autism-dyslexia)
+1. NBRC | Dr. Nandini Chatterjee Singh. Retrieved from [http://www.nbrc.ac.in/newweb/wp-content/uploads/2021/01/CV-NSC.pdf](http://www.nbrc.ac.in/newweb/wp-content/uploads/2021/01/CV-NSC.pdf)
+1. UNESCO MGIEP | Team | Dr. Nandini Chatterjee Singh. Retrieved from [https://mgiep.unesco.org/team](https://mgiep.unesco.org/team)
+1. Language, Literacy and Music Lab, NBRC. [https://nandinisingh.wixsite.com/labweb](https://nandinisingh.wixsite.com/labweb)
+1. Theunissen FE, David SV, Singh NC, Hsu A, Vinje WE, Gallant JL. Estimating spatio-temporal receptive fields of auditory and visual neurons from their responses to natural stimuli. Network. 2001;12(3):289-316. Retrieved from [https://doi.org/10.1080/net.12.3.289.316](https://doi.org/10.1080/net.12.3.289.316)
 

@@ -22,7 +22,7 @@ For budding scientists, Dr. Gowda has an important message! She says that there 
 That’s all for this [episode](https://www.indiaaskswhy.org/episode/2022-08-15-why-do-trees-not-stop-growing/). So, keep learning, stay curious and listen to Utsuka and Jigyasa as they chat with Dr. Vinita Gowda about the seemingly never-ending growth of trees, and about her exciting journey as a plant scientist!
 
 ## References:
-Jim P. Fouracre and Richard Scott Poethig. (2020) Lonely at the Top? Regulation of Shoot Apical Meristem Activity by Intrinsic and Extrinsic Factors. Current Opinion in Plant Biology 58:17–24. [https://doi.org/10.1016/j.pbi.2020.08.008](https://doi.org/10.1016/j.pbi.2020.08.008)
-Shakunthala Natarajan. (2023) Why Do Trees Not Stop Growing? IndiaAsksWhy. [https://www.indiaaskswhy.org/blog/2024-06-12-why-do-trees-not-stop-growing/](https://www.indiaaskswhy.org/blog/2024-06-12-why-do-trees-not-stop-growing/)
-Tropical Ecology & Evolution Lab. Available at [https://treelab.wixsite.com/tree/](https://treelab.wixsite.com/tree/)
-Dr. Vinita Gowda, Department of Biological Science, IISER Bhopal. Available at [https://bio.iiserb.ac.in/faculty_profile.php?id=MTQ=&lname=Z293ZGF2](https://bio.iiserb.ac.in/faculty_profile.php?id=MTQ=&lname=Z293ZGF2)
+1. Jim P. Fouracre and Richard Scott Poethig. (2020) Lonely at the Top? Regulation of Shoot Apical Meristem Activity by Intrinsic and Extrinsic Factors. Current Opinion in Plant Biology 58:17–24. [https://doi.org/10.1016/j.pbi.2020.08.008](https://doi.org/10.1016/j.pbi.2020.08.008)
+1. Shakunthala Natarajan. (2023) Why Do Trees Not Stop Growing? IndiaAsksWhy. [https://www.indiaaskswhy.org/blog/2024-06-12-why-do-trees-not-stop-growing/](https://www.indiaaskswhy.org/blog/2024-06-12-why-do-trees-not-stop-growing/)
+1. Tropical Ecology & Evolution Lab. Available at [https://treelab.wixsite.com/tree/](https://treelab.wixsite.com/tree/)
+1. Dr. Vinita Gowda, Department of Biological Science, IISER Bhopal. Available at [https://bio.iiserb.ac.in/faculty_profile.php?id=MTQ=&lname=Z293ZGF2](https://bio.iiserb.ac.in/faculty_profile.php?id=MTQ=&lname=Z293ZGF2)
