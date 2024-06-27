@@ -29,5 +29,5 @@ Bryce, E. (2018) How do squirrels remember where they buried their nuts?, LiveSc
 Griffin, A. (2018) In the autumn, squirrels think about nuts so much that it may make their brains bigger, Quartz. Available at: [https://qz.com/1462091/how-do-squirrels-find-their-nuts-in-the-winter](https://qz.com/1462091/how-do-squirrels-find-their-nuts-in-the-winter) (Accessed: 06 August 2023).
 Morris, P. (2022) How do squirrels find their nuts?, BBC Wildlife Magazine | Discover Wildlife. Available at: [https://www.discoverwildlife.com/animal-facts/mammals/how-do-squirrels-find-their-nuts/](https://www.discoverwildlife.com/animal-facts/mammals/how-do-squirrels-find-their-nuts/) (Accessed: 06 August 2023).
 
-## Image Credit
+Cover Image Credit:
 Image by <a href="https://pixabay.com/users/jonpauling-19157087/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8367079">Jon Pauling</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8367079">Pixabay</a>

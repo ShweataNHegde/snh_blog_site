@@ -31,5 +31,6 @@ We are now at the end of our journey into the world of chocolates and neuroscien
 1. Terenzi, S. (2023) Why do we love chocolate so much?, The Chocolate Journalist. Available at: [https://www.thechocolatejournalist.com/blog/why-do-we-love-chocolate-so-much](https://www.thechocolatejournalist.com/blog/why-do-we-love-chocolate-so-much)(Accessed: 27 June 2023).
 1. Why do we like chocolate so much? (2022) Science ABC. Available at: [https://www.scienceabc.com/humans/like-chocolates-much.html](https://www.scienceabc.com/humans/like-chocolates-much.html) (Accessed: 27 June 2023).
 
-### Image Credit
+
+Cover Image Credit:
 Image by <a href="https://pixabay.com/users/jan_photo-2842014/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4455840">Jan Mateboer</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4455840">Pixabay</a>
