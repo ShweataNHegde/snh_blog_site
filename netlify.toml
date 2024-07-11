@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "www.indiaaskswhy.org/*"
+  to = "https://indiaaskswhy.netlify.app/"
+  status = 301
+  force = true

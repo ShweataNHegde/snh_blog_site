@@ -1,5 +1,5 @@
 ---
-title: "IndiaAsksWhy meets Dr. Karthikeyan Vasudevan "
+title: "IndiaAsksWhy meets Dr. Karthikeyan Vasudevan"
 des: "To understand animal behaviours better, Utsuka and Jigyasa speak with Dr. Karthikeyan Vasudevan, a wildlife biologist from the Centre for Cellular and Molecular Biology (CCMB), Hyderabad. Dr. Vasudevan and his team of young scientists study animal behaviour in the wild and in captivity. He explains that all animals are born with certain innate behaviours that are critical for their survival in more ways than one. His team tries to apply their understanding of animal behaviour in conservation efforts with the goal of saving endangered animals."
 postDate: "2024-06-15"
 img: "/assets/images/blog/karthikeyan_vasudevan.png"
